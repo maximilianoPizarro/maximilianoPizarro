@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning Cloud Computing & Blockchain
 
-👯 I’m looking to collaborate on [![Blockchain Federal Argentina](https://bfa.ar/themes/bfa/logo.svg)](https://bfa.ar)
+👯 I’m looking to collaborate on <a href="https://bfa.ar/" target="_blank" alt="Blockchain Federal Argentina"><img src="https://bfa.ar/themes/bfa/logo.svg?style=for-the-badge" alt="Blockchain Federal Argentina" width="200" height="90"> 
 
 🤔 I’m looking for help with SRE, DevOps & Blockchain 
 

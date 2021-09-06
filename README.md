@@ -2,10 +2,11 @@
 
 <p>
   <a href="http://www.unla.edu.ar/" target="_blank" alt="National University of Lanus"><img src="http://www.unla.edu.ar/images/logo_web.jpg" width="80" height="90" alt="National University of Lanus">
+    </a>
 </p>
 
 <p>
-- 🔭 I’m currently working on <a href="http://www.datastar.com.ar/" target="_blank" alt="Datastar"><img src="http://www.datastar.com.ar/wp-content/themes/datastar/images/logo.png" width="80" height="90" alt="Datastar">
+- 🔭 I’m currently working on <a href="http://www.datastar.com.ar/" target="_blank" alt="Datastar"><img src="http://www.datastar.com.ar/wp-content/themes/datastar/images/logo.png" width="200" height="90" alt="Datastar">
 </a>
 </p>
 
@@ -14,7 +15,7 @@
 </p>
 
 <p>  
-- 👯 I’m looking to collaborate on <a href="https://bfa.ar/" target="_blank" alt="Blockchain Federal Argentina"><img src="https://bfa.ar/themes/bfa/logo.svg?style=for-the-badge" alt="Blockchain Federal Argentina" width="80" height="90"> 
+- 👯 I’m looking to collaborate on <a href="https://bfa.ar/" target="_blank" alt="Blockchain Federal Argentina"><img src="https://bfa.ar/themes/bfa/logo.svg?style=for-the-badge" alt="Blockchain Federal Argentina" width="200" height="90"> 
 </a>
 </p>
 

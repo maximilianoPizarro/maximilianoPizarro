@@ -4,11 +4,11 @@
   <img src="https://raw.githubusercontent.com/maximilianoPizarro/maximilianoPizarro/main/devops.gif" width="600" title="DevOps"/>
 </p> 
 
-<p align="left">                                                                                                                          
-🔭 I’m currently working on  <a href="http://www.datastar.com.ar/" target="_blank" alt="Blockchain Federal Argentina"><img src="http://www.datastar.com.ar/wp-content/themes/datastar/images/logo.png" alt="Blockchain Federal Argentina" width="200" height="90"></a>
+<p align="center">                                                                                                                          
+🔭 I’m currently working on  <a href="http://www.datastar.com.ar/" target="_blank" alt="Datastar"><img src="http://www.datastar.com.ar/wp-content/themes/datastar/images/logo.png" alt="Datastar" height="90"></a>
 </p> 
 
-<p align="left"> 
+<p align="center"> 
 👯 I’m looking to collaborate on <a href="https://bfa.ar/" target="_blank" alt="Blockchain Federal Argentina"><img src="https://bfa.ar/themes/bfa/logo.svg?style=for-the-badge" alt="Blockchain Federal Argentina" width="200" height="90"></a>
 </p> 
 
@@ -16,7 +16,7 @@
 
 🤔 I’m looking for help with SRE, DevOps & Blockchain 
 
-<p align="left"> 
+<p align="center"> 
 📫 How to reach me:  
 <a href="https://www.linkedin.com/in/maximiliano-gregorio-pizarro-consultor-it"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 </p> 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maximiliano!</h1>
 
 <p align="left">
-  <img src=https://github.com/maximilianoPizarro/maximilianoPizarro/blob/master/devops.gif" width="600" title="hover text">
+  <img src="https://raw.githubusercontent.com/maximilianoPizarro/maximilianoPizarro/main/devops.gif" width="600" title="hover text">
 </p> 
 
 <p align="left">                                                                                                                          

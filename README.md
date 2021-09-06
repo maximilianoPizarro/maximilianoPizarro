@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maximiliano!</h1>
 
-<p>
-  <a href="http://www.unla.edu.ar/" target="_blank" alt="National University of Lanus"><img src="http://www.unla.edu.ar/images/logo_web.jpg" width="80" height="90" alt="National University of Lanus">
-    </a>
-</p>
+[![National University of Lanus](http://www.unla.edu.ar/images/logo_web.jpg)](http://www.unla.edu.ar)
 
 <p>
 - 🔭 I’m currently working on <a href="http://www.datastar.com.ar/" target="_blank" alt="Datastar"><img src="http://www.datastar.com.ar/wp-content/themes/datastar/images/logo.png" width="200" height="90" alt="Datastar">

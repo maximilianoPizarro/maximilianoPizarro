@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-- 🔭 I’m currently working on <a href="http://www.datastar.com.ar/" target="_blank" alt="Datastar"><img src="http://www.datastar.com.ar/wp-content/themes/datastar/images/logo.png" alt="Datastar">
+- 🔭 I’m currently working on <a href="http://www.datastar.com.ar/" target="_blank" alt="Datastar"><img src="http://www.datastar.com.ar/wp-content/themes/datastar/images/logo.png?style=for-the-badge" alt="Datastar">
 </a>
 </p>
 
@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning Cloud Computing & Blockchain
 </p>
 <p align="center">  
-- 👯 I’m looking to collaborate on <a href="https://bfa.ar/" target="_blank" alt="Blockchain Federal Argentina"> Blockchain Federal Argentina
+- 👯 I’m looking to collaborate on <a href="https://bfa.ar/" target="_blank" alt="Blockchain Federal Argentina"><img src="https://bfa.ar/themes/bfa/logo.svg?style=for-the-badge" alt="Blockchain Federal Argentina"> 
 </a>
 </p>
 <p align="center">  

@@ -2,15 +2,11 @@
 
 [![National University of Lanus](http://www.unla.edu.ar/images/logo_web.jpg)](http://www.unla.edu.ar)
 
-
 🔭 I’m currently working on [![Datastar](http://www.datastar.com.ar/wp-content/themes/datastar/images/logo.png)](http://www.datastar.com.ar)
-
-
-<a href="http://www.datastar.com.ar/" target="_blank" alt="Datastar"><img src="http://www.datastar.com.ar/wp-content/themes/datastar/images/logo.png" width="200" height="90" alt="Datastar">
 
 🌱 I’m currently learning Cloud Computing & Blockchain
 
-👯 I’m looking to collaborate on <a href="https://bfa.ar/" target="_blank" alt="Blockchain Federal Argentina"><img src="https://bfa.ar/themes/bfa/logo.svg?style=for-the-badge" alt="Blockchain Federal Argentina" width="200" height="90"> 
+👯 I’m looking to collaborate on [![Blockchain Federal Argentina](https://bfa.ar/themes/bfa/logo.svg)](https://bfa.ar)
 
 🤔 I’m looking for help with SRE, DevOps & Blockchain 
 

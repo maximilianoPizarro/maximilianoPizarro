@@ -11,7 +11,6 @@
 📫 How to reach me:  <a href="https://www.linkedin.com/in/maximiliano-gregorio-pizarro-consultor-it"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximilianoPizarro&theme=dark&count_private=true&show_icons=true" alt="langs">
-  <img src="https://github-readme-stats.vercel.app/api?username=maximilianoPizarro&show_icons=true&theme=dark&hide=php,html,jupyter%20notebook&count_private=true&show_icons=true" alt="langs">
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximilianoPizarro&theme=dark&hide=php,html,jupyter%20notebook&count_private=true&show_icons=true" alt="langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=maximilianoPizarro&show_icons=true&theme=dark&count_private=true&show_icons=true" alt="stats">
 

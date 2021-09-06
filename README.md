@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Maximiliano!</h1>
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/maximilianoPizarro/maximilianoPizarro/main/devops.gif" width="600" title="DevOps"/>
 </p> 
 
 <p align="left">                                                                                                                          
-🔭 I’m currently working on [![Datastar](http://www.datastar.com.ar/wp-content/themes/datastar/images/logo.png)](http://www.datastar.com.ar)
+🔭 I’m currently working on  <a href="http://www.datastar.com.ar/" target="_blank" alt="Blockchain Federal Argentina"><img src="http://www.datastar.com.ar/wp-content/themes/datastar/images/logo.png" alt="Blockchain Federal Argentina" width="200" height="90"></a>
 </p> 
 
 <p align="left"> 

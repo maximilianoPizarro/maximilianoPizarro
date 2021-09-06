@@ -15,14 +15,16 @@
   <img src="https://img.shields.io/badge/heroku-6762a6?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
   <img src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/ibm%20watson-006699?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Cloud">
-</p>
-<p align="left">                                                                                                                          
+  
+  <p align="right">                                                                                                                          
 🔭 I’m currently working on  <a href="http://www.datastar.com.ar/" target="_blank" alt="Datastar"><img src="http://www.datastar.com.ar/wp-content/themes/datastar/images/logo.png" alt="Datastar" height="90"></a>
 </p> 
 
-<p align="left"> 
+<p align="right"> 
 👯 I’m looking to collaborate on <a href="https://bfa.ar/" target="_blank" alt="Blockchain Federal Argentina"><img src="https://bfa.ar/themes/bfa/logo.svg?style=for-the-badge" alt="Blockchain Federal Argentina" width="200" height="90"></a>
 </p> 
+</p>
+
 
 <p align="left"> 
 📫 How to reach me:  

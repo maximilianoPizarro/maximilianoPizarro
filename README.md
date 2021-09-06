@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-- 🔭 I’m currently working on <a href="http://www.datastar.com.ar/" target="_blank" alt="Datastar"><img src="http://www.datastar.com.ar/wp-content/themes/datastar/images/logo.png?style=for-the-badge&logo=datastar&logoColor=white" alt="Datastar">
+- 🔭 I’m currently working on <a href="http://www.datastar.com.ar/" target="_blank" alt="Datastar"><img src="http://www.datastar.com.ar/wp-content/themes/datastar/images/logo.png" alt="Datastar">
 </a>
 </p>
 
@@ -25,10 +25,8 @@
 </a>
 </p>
 
-
-<h3>Stats</h3>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximilianoPizarro&theme=dark&hide=php,html,jupyter%20notebook&count_private=true&show_icons=true" alt="langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximilianoPizarro&theme=dark&count_private=true&show_icons=true" alt="langs">
   <img src="https://github-readme-stats.vercel.app/api?username=maximilianoPizarro&show_icons=true&theme=dark&count_private=true&show_icons=true" alt="stats">
 </p>
 

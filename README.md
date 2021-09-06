@@ -15,9 +15,8 @@
   <img src="https://img.shields.io/badge/heroku-6762a6?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
   <img src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/ibm%20watson-006699?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Cloud">  
-  [![OpenShift Version][openshift311-logo]][openshift311-url]
-  [![OpenShift Version][openshift41-logo]][openshift41-url]
-
+ [openshift311-url]: https://docs.openshift.com/container-platform/3.11/welcome/index.html
+[openshift41-url]: https://docs.openshift.com/container-platform/4.1/welcome/index.html
 </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximilianoPizarro&theme=dark&hide=php,html,jupyter%20notebook&count_private=true&show_icons=true" alt="langs">

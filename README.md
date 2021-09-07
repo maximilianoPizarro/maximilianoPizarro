@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/ibm%20watson-006699?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Cloud">   
 
+[![OpenShift Version][openshift311-heximage4]][openshift311-url]
+
 
 [![OpenShift Version][openshift311-logo]][openshift311-url]
 [![OpenShift Version][openshift41-logo]][openshift41-url]

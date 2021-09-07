@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/maximilianoPizarro/maximilianoPizarro/main/devops.gif" width="600" title="DevOps"/>
 </p> 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
   <img src="https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
   <img src="https://img.shields.io/badge/Angular-c3002f?style=for-the-badge&logo=angular&logoColor=white" alt="angular">

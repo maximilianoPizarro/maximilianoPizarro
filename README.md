@@ -42,7 +42,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=maximilianoPizarro&show_icons=true&theme=dark&count_private=true&show_icons=true" alt="stats">
 </p> 
 
-| 🔭 I’m currently working on      	| <a href="http://www.datastar.com.ar/" target="_blank" alt="Datastar"><img src="http://www.datastar.com.ar/wp-content/themes/datastar/images/logo.png" alt="Datastar" height="90"></a>                          	|
+| 🔭 I’m currently working on      	| <a href="https://www.datastar.com.ar/" target="_blank" alt="Datastar"><img src="https://www.datastar.com.ar/wp-content/uploads/2020/11/logo-2.png" alt="Datastar" height="90"></a>                          	|
 |---------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
 | 👯 I’m looking to collaborate on 	| <a href="https://bfa.ar/" target="_blank" alt="Blockchain Federal Argentina"><img src="https://bfa.ar/themes/bfa/logo.svg?style=for-the-badge" alt="Blockchain Federal Argentina" width="200" height="90"></a> 	|
 | 📫 How to reach me:              	| <a href="https://www.linkedin.com/in/maximiliano-gregorio-pizarro-consultor-it"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">      	|

@@ -38,7 +38,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximilianoPizarro&theme=dark&hide=php,html,jupyter%20notebook&count_private=true&show_icons=true" alt="langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximilianoPizarro&theme=dark&hide=php,html,jupyter,bash%20notebook&count_private=true&show_icons=true" alt="langs">
   <img src="https://github-readme-stats.vercel.app/api?username=maximilianoPizarro&show_icons=true&theme=dark&count_private=true&show_icons=true" alt="stats">
 </p> 
 

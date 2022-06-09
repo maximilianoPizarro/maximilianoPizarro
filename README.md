@@ -54,7 +54,7 @@
 
 <a href="https://docs.microsoft.com/en-us/users/maximilianogregoriopizarro-1231/"> <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31" width="300" higth="400" alt="Microsoft" /></a>  
 
-<a href="https://partner.cloudskillsboost.google/public_profiles/d7bb8358-dd83-4da2-8e22-245bb87fb4de" />
+<a href="https://partner.cloudskillsboost.google/public_profiles/d7bb8358-dd83-4da2-8e22-245bb87fb4de" >
 <img src="https://cdn.qwiklabs.com/PGyhmgS3zZncIEGywnx5UXsKwepRRFQ9BhAg%2FWHNrlQ%3D" width="300" higth="400" alt="GoogleCloud"/></a>    
 
 <a href="https://playacademy.exceedlms.com/profiles/maximilianopizarro7f0c0805">

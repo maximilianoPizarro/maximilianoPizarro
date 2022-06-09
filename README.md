@@ -1,6 +1,11 @@
 <h1 align="center"><img src="https://images.credly.com/size/48x48/images/b54ceda2-2048-4558-b36d-8d80cc2c9ac9/standard_blob.png" alt="linkedin"> Hi 👋, I'm Maximiliano!</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/maximilianoPizarro/maximilianoPizarro/main/devops.gif" width="600" title="DevOps"/>
+  
+  <a href="https://www.credly.com/users/maximiliano-pizarro/badges"><img src="https://cdn.credly.com/assets/structure/logo-78b59f8114817c758ca965ed8f1a58a76a39b6fd70d031f771a9bbc581fcde65.svg" width="300" higth="400" alt="Credly"> </a>
+    <a href="https://docs.microsoft.com/en-us/users/maximilianogregoriopizarro-1231/"> <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31" width="300" higth="400" alt="Microsoft"></a>
+   <a href="https://partner.cloudskillsboost.google/public_profiles/d7bb8358-dd83-4da2-8e22-245bb87fb4de">
+    <img src="https://cdn.qwiklabs.com/PGyhmgS3zZncIEGywnx5UXsKwepRRFQ9BhAg%2FWHNrlQ%3D" width="300" higth="400" alt="GoogleCloud"> </a>
 </p> 
 <p align="center">
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="shell">  
@@ -46,8 +51,6 @@
 |---------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
 | 👯 I’m looking to collaborate on 	| <a href="https://bfa.ar/" target="_blank" alt="Blockchain Federal Argentina"><img src="https://bfa.ar/themes/bfa/logo.svg?style=for-the-badge" alt="Blockchain Federal Argentina" width="200" height="90"></a> 	|
 | 📫 How to reach me:              	| <a href="https://www.linkedin.com/in/maximiliano-gregorio-pizarro-consultor-it"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">      	|
-| 🙌 Learning public profile:              	| <a href="https://www.credly.com/users/maximiliano-pizarro/badges"><img src="https://cdn.credly.com/assets/structure/logo-78b59f8114817c758ca965ed8f1a58a76a39b6fd70d031f771a9bbc581fcde65.svg" width="40" higth="40" alt="Credly"> <a href="https://docs.microsoft.com/en-us/users/maximilianogregoriopizarro-1231/"> <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31" width="80" higth="100" alt="Microsoft">
-   <a href="https://partner.cloudskillsboost.google/public_profiles/d7bb8358-dd83-4da2-8e22-245bb87fb4de">
-    <img src="https://cdn.qwiklabs.com/PGyhmgS3zZncIEGywnx5UXsKwepRRFQ9BhAg%2FWHNrlQ%3D" width="80" higth="100" alt="GoogleCloud">       	|
+| 🙌 Learning public profile:              	|       	|
 
 

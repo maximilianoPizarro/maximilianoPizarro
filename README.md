@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maximiliano!</h1>
+<h1 align="center"><img src="https://images.credly.com/size/48x48/images/b54ceda2-2048-4558-b36d-8d80cc2c9ac9/standard_blob.png" alt="linkedin"> Hi 👋, I'm Maximiliano!</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/maximilianoPizarro/maximilianoPizarro/main/devops.gif" width="600" title="DevOps"/>
 </p> 
@@ -46,6 +46,6 @@
 |---------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
 | 👯 I’m looking to collaborate on 	| <a href="https://bfa.ar/" target="_blank" alt="Blockchain Federal Argentina"><img src="https://bfa.ar/themes/bfa/logo.svg?style=for-the-badge" alt="Blockchain Federal Argentina" width="200" height="90"></a> 	|
 | 📫 How to reach me:              	| <a href="https://www.linkedin.com/in/maximiliano-gregorio-pizarro-consultor-it"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">      	|
-
+| 📫 Learning public profile:              	| <a href="https://www.credly.com/users/maximiliano-pizarro/badges"><img src="https://cdn.credly.com/assets/structure/logo-78b59f8114817c758ca965ed8f1a58a76a39b6fd70d031f771a9bbc581fcde65.svg" width="40" higth="40" alt="Credly">      	|
 
 

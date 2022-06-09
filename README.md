@@ -49,10 +49,11 @@
 
 <p align="center">  
 <h1 align="center"> 🙌 Learning public profile's from Credly, Microsoft, Google Cloud<img src="https://images.credly.com/size/48x48/images/b54ceda2-2048-4558-b36d-8d80cc2c9ac9/standard_blob.png" alt="linkedin">✔</h1>
+|                                 	|  
 |---------------------------------	|  
-| <a href="https://www.credly.com/users/maximiliano-pizarro/badges"><img src="https://cdn.credly.com/assets/structure/logo-78b59f8114817c758ca965ed8f1a58a76a39b6fd70d031f771a9bbc581fcde65.svg" width="100" higth="200" alt="Credly"> </a> 	|    
-| <a href="https://docs.microsoft.com/en-us/users/maximilianogregoriopizarro-1231/"> <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31" width="300" higth="400" alt="Microsoft"></a> 	|   
-| <a href="https://partner.cloudskillsboost.google/public_profiles/d7bb8358-dd83-4da2-8e22-245bb87fb4de">
+| <a href="https://www.credly.com/users/maximiliano-pizarro/badges"><img src="https://cdn.credly.com/assets/structure/logo-78b59f8114817c758ca965ed8f1a58a76a39b6fd70d031f771a9bbc581fcde65.svg" width="100" higth="200" alt="Credly" /> </a> 	|    
+| <a href="https://docs.microsoft.com/en-us/users/maximilianogregoriopizarro-1231/"> <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31" width="300" higth="400" alt="Microsoft" /></a> 	|   
+| <a href="https://partner.cloudskillsboost.google/public_profiles/d7bb8358-dd83-4da2-8e22-245bb87fb4de" />
 <img src="https://cdn.qwiklabs.com/PGyhmgS3zZncIEGywnx5UXsKwepRRFQ9BhAg%2FWHNrlQ%3D" width="300" higth="400" alt="GoogleCloud"></a> 	|    
 
 </p>

@@ -37,9 +37,6 @@
 
 
 </p>
-<iframe  frameborder="0" 
-        style=" width: 100%; height: 110%;" src="https://www.credly.com/users/maximiliano-pizarro/badges?sort=-state_updated_at&page=1">
-</iframe>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximilianoPizarro&theme=dark&hide=php,html,jupyter,bash%20notebook&count_private=true&show_icons=true" alt="langs">
   <img src="https://github-readme-stats.vercel.app/api?username=maximilianoPizarro&show_icons=true&theme=dark&count_private=true&show_icons=true" alt="stats">

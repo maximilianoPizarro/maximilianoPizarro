@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://images.credly.com/size/48x48/images/b54ceda2-2048-4558-b36d-8d80cc2c9ac9/standard_blob.png" alt="linkedin"/> Hi 👋, I'm Maximiliano!</h1>
+<h1 align="center"> <a href="https://www.linkedin.com/in/maximiliano-gregorio-pizarro-consultor-it"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">  Hi 👋, I'm Maximiliano!</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/maximilianoPizarro/maximilianoPizarro/main/devops.gif" width="600" title="DevOps"/>
 </p> 

@@ -1,11 +1,10 @@
-name: Build and deploy Jekyll site to GitHub Pages
+name: Deploy Jekyll site to Pages
 
 on:
   push:
     branches:
       - main
-    paths:
-      - 'docs/**'
+      - master
   workflow_dispatch:
 
 permissions:
@@ -36,8 +35,9 @@ jobs:
         uses: actions/configure-pages@v4
       
       - name: Build with Jekyll
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
-        working-directory: ./docs
+        run: |
+          cd docs
+          bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
       
@@ -56,4 +56,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-

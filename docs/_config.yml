@@ -20,8 +20,8 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-# Theme Settings
-theme: minima
+# Theme Settings (commented out to use custom layout)
+# theme: minima
 
 # Exclude from processing
 exclude:
@@ -60,4 +60,3 @@ navigation:
     url: /articles/
   - title: About
     url: /about/
-

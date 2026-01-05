@@ -126,6 +126,9 @@ img {
 
 .site-logo {
     text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
 }
 
 .site-title {
@@ -133,6 +136,7 @@ img {
     font-weight: 700;
     color: var(--rh-red);
     margin: 0;
+    line-height: 1.2;
 }
 
 .site-tagline {

@@ -1,0 +1,63 @@
+# Site Settings
+title: "Maximiliano Pizarro"
+description: "Specialist Solution Architect at Red Hat LATAM | OpenShift | Application Platform | Cloud Native Technologies"
+baseurl: ""
+url: "https://maximilianopizarro.github.io"
+
+# Author Information
+author:
+  name: "Maximiliano Pizarro"
+  email: ""
+  github: "maximilianoPizarro"
+  linkedin: "maximiliano-gregorio-pizarro-consultor-it"
+  title: "Specialist Solution Architect"
+  company: "Red Hat LATAM"
+
+# Build Settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Theme Settings
+theme: minima
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Collections
+collections:
+  articles:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "articles"
+    values:
+      layout: "article"
+
+# Social Links
+social:
+  github: maximilianoPizarro
+  linkedin: maximiliano-gregorio-pizarro-consultor-it
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Articles
+    url: /articles/
+  - title: About
+    url: /about/
+

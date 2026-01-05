@@ -1,47 +1,138 @@
-<h1 align="center"> <a href="https://www.linkedin.com/in/maximiliano-gregorio-pizarro-consultor-it"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">  Hi 👋, I'm Maximiliano!</h1>
+# 👋 Hi, I'm Maximiliano Pizarro
+
+**Specialist Solution Architect at Red Hat LATAM**
+
+Passionate about cloud-native technologies, containerization, and enterprise solutions. Specializing in Red Hat OpenShift, Application Platform, and DevOps practices.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximiliano-gregorio-pizarro-consultor-it)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maximilianoPizarro)
+[![Website](https://img.shields.io/badge/Website-CC0000?style=for-the-badge&logo=redhat&logoColor=white)](https://maximilianopizarro.github.io)
+
+---
+
+## 🚀 Technologies & Tools
+
+### Cloud & Containers
+![Red Hat](https://img.shields.io/badge/Red%20Hat-CC0000?style=for-the-badge&logo=redhat&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=red-hat-open-shift&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
+
+### DevOps & Automation
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitOps](https://img.shields.io/badge/GitOps-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Cloud Platforms
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
+![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibm&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="shell">  
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java">  
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
-  <img src="https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript">
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="typescript">
-  <img src="https://img.shields.io/badge/Angular-c3002f?style=for-the-badge&logo=angular&logoColor=white" alt="angular">
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="VueJS">
-  <img src="https://img.shields.io/badge/nodejs-68a063?style=for-the-badge&logo=javascript&logoColor=white" alt="nodejs">
-  <img src="https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python">  
-  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="Python">  
-  <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="Qt">  
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">                                 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django">  
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php">
-  <img src="https://img.shields.io/badge/mysql-00758f?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"> 
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"> 
-  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="trello"> 
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="jira">
-  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins">
-  <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="ansible">
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes">  
-  <img src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/redhat-CC0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Redhat">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure">
-  <img src="https://img.shields.io/badge/ibm%20watson-006699?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Cloud">  
-  <img src="https://img.shields.io/badge/heroku-6762a6?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku">
-  <img src="https://img.shields.io/badge/googlecloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud">
-      <img src="https://img.shields.io/badge/openshift-3.11-820000.svg?style=for-the-badge&labelColor=grey&logo=data:image/png;base64,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" alt="Openshift311">
-
-  <img src="https://img.shields.io/badge/openshift-4.1-820000.svg?style=for-the-badge&labelColor=grey&logo=data:image/png;base64,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" alt="Openshift41">
-
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximilianoPizarro&theme=dark&hide=php,html,jupyter,bash%20notebook&count_private=true&show_icons=true&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=maximilianoPizarro&show_icons=true&theme=dark&count_private=true&show_icons=true" alt="GitHub Stats">
 </p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximilianoPizarro&theme=dark&hide=php,html,jupyter,bash%20notebook&count_private=true&show_icons=true" alt="langs">
-  <img src="https://github-readme-stats.vercel.app/api?username=maximilianoPizarro&show_icons=true&theme=dark&count_private=true&show_icons=true" alt="stats">
-</p> 
 
-|       	|                          	|
-|---------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| 👯 I have collaborated with 	| <a href="https://www.redhat.com/" target="_blank" alt="Red Hat Argentina"><img src="https://static.redhat.com/libs/redhat/brand-assets/2/corp/logo--on-dark.svg" alt="Red Hat" width="200" height="90"></a> <a href="https://bfa.ar/" target="_blank" alt="Blockchain Federal Argentina"><img src="https://bfa.ar/themes/bfa/logo.svg?style=for-the-badge" alt="Blockchain Federal Argentina" width="200" height="90"></a> <a href="https://www.buenosaires.gob.ar/" target="_blank" alt="BuenosAires"><img src="https://raw.githubusercontent.com/maximilianoPizarro/maximilianoPizarro/main/gcba.jpg" alt="GCBA" height="70"></a> <a href="https://www.cncf.io/" target="_blank" alt="Cloud Native Computing Foundation"><img src="https://www.cncf.io/wp-content/uploads/2023/04/cncf-main-site-logo.svg" alt="Blockchain Federal Argentina" width="200" height="90"></a> |
-| ✔🙌 view my verified achievement from              	|<a href="https://www.credly.com/users/maximiliano-pizarro/badges?sort=-state_updated_at&page=1"><img src="https://raw.githubusercontent.com/maximilianoPizarro/maximilianoPizarro/main/credly.PNG" width="178" height="130" alt="Credly">      </a> <a href="https://learn.microsoft.com/es-mx/users/maximilianopizarro/"><img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31" height="50"  alt="Microsoft"></a> <a href="https://cloudskillsboost.google/public_profiles/d7bb8358-dd83-4da2-8e22-245bb87fb4de/?locale=ar" ><img src="https://cdn.qwiklabs.com/PGyhmgS3zZncIEGywnx5UXsKwepRRFQ9BhAg%2FWHNrlQ%3D"  height="50" alt="GoogleCloud"></a><a href="https://www.coursera.org/user/9005ee0c6a4c91f5ab0eab832b1bbf8f" ><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Coursera-logo-square.png"  height="80" alt="Coursera"></a> <a href="https://learn.redhat.com/t5/user/viewprofilepage/user-id/120782"><img src="https://learn.redhat.com/html/@E23B221005D3601BB40A8A18D40673FB/assets/RH_Learning_Community_badge_RGB.png"  alt="RedHatLearningCommunity" width="178" height="130"/></a> <a href="https://playacademy.exceedlms.com/profiles/maximilianopizarro7f0c0805"><img src="https://github.com/maximilianoPizarro/maximilianoPizarro/blob/main/gpa-fulllock.png"  height="50" alt="GooglePlayAcademy"/></a> [![@mpizarro's Holopin board](https://holopin.io/api/user/board?user=mpizarro)](https://holopin.io/@mpizarro)      	|  
-| ⭕ Artifact Hub              	| [![JHipster Online](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/jhipster-online)](https://artifacthub.io/packages/helm/jhipster-online/jhipster-online) <a href="https://artifacthub.io/packages/search?repo=botpress"><img src="https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/botpress" alt="Artifact Hub" /></a> <a href="https://artifacthub.io/packages/search?repo=oracle-helm-charts"><img src="https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/oracle-helm-charts" alt="Artifact Hub" /></a> <a href="https://artifacthub.io/packages/search?repo=workshop-pipelines"><img src="https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/workshop-pipelines" alt="Artifact Hub" /></a> <a href="https://artifacthub.io/packages/search?org=community-charts"><img src="https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/n8n" alt="n8n" /></a> <a href="https://artifacthub.io/packages/search?repo=librechat-openshift"><img src="https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/librechat" alt="Artifact Hub" /> <a href="https://artifacthub.io/packages/search?repo=fineract-openshift"><img src="https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/fineract" alt="Artifact Hub" /></a>      	|
-| 📫 How to reach me:              	| <a href="https://www.linkedin.com/in/maximiliano-gregorio-pizarro-consultor-it"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">      	|
+---
+
+## 📚 Featured Articles & Projects
+
+### 🔴 Red Hat Technologies
+
+- **[Red Hat Chat](https://maximilianopizarro.github.io/LibreChat-RedHat/)**  
+  AI Conversations with Red Hat Design System. Deploy locally with Podman or on OpenShift using container images from Quay.io.
+
+- **[Connectivity Link](https://maximilianopizarro.github.io/connectivity-link/)**  
+  Security Microservice with Connectivity Link using OpenID Connect (OIDC). Zero Trust Architecture with OpenShift GitOps.
+
+- **[Workshop OpenShift Pipelines](https://maximilianopizarro.github.io/workshop-pipelines/)**  
+  Helm Chart example on Red Hat OpenShift. Learn CI/CD practices with OpenShift Pipelines and GitOps workflows.
+
+### 📦 Helm Charts & Artifact Hub
+
+[![JHipster Online](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/jhipster-online)](https://artifacthub.io/packages/helm/jhipster-online/jhipster-online)
+[![Botpress](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/botpress)](https://artifacthub.io/packages/search?repo=botpress)
+[![Oracle Helm Charts](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/oracle-helm-charts)](https://artifacthub.io/packages/search?repo=oracle-helm-charts)
+[![Workshop Pipelines](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/workshop-pipelines)](https://artifacthub.io/packages/search?repo=workshop-pipelines)
+[![LibreChat OpenShift](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/librechat-openshift)](https://artifacthub.io/packages/search?repo=librechat-openshift)
+[![Fineract OpenShift](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/fineract-openshift)](https://artifacthub.io/packages/search?repo=fineract-openshift)
+
+---
+
+## 🏆 Certifications & Achievements
+
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/maximiliano-pizarro/badges)
+[![Red Hat Learning](https://img.shields.io/badge/Red%20Hat%20Learning-CC0000?style=for-the-badge&logo=redhat&logoColor=white)](https://learn.redhat.com/t5/user/viewprofilepage/user-id/120782)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/es-mx/users/maximilianopizarro/)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloudskillsboost.google/public_profiles/d7bb8358-dd83-4da2-8e22-245bb87fb4de/)
+[![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/user/9005ee0c6a4c91f5ab0eab832b1bbf8f)
+
+[![@mpizarro's Holopin board](https://holopin.io/api/user/board?user=mpizarro)](https://holopin.io/@mpizarro)
+
+---
+
+## 🤝 Collaborations
+
+I have collaborated with leading organizations in technology and innovation:
+
+- **[Red Hat](https://www.redhat.com/)** - Enterprise open source solutions
+- **[CNCF](https://www.cncf.io/)** - Cloud Native Computing Foundation
+- **[Blockchain Federal Argentina](https://bfa.ar/)** - Blockchain technology initiatives
+- **[Buenos Aires Government](https://www.buenosaires.gob.ar/)** - Public sector technology projects
+
+---
+
+## 🌐 GitHub Pages Site
+
+Visit my professional portfolio and articles at:  
+**https://maximilianopizarro.github.io**
+
+The site is built with Jekyll and features articles on:
+- Red Hat OpenShift
+- Application Platform
+- Cloud Native Technologies
+- DevOps Practices
+- Security & Zero Trust Architecture
+
+---
+
+## 📫 How to Reach Me
+
+- **LinkedIn**: [maximiliano-gregorio-pizarro-consultor-it](https://www.linkedin.com/in/maximiliano-gregorio-pizarro-consultor-it)
+- **GitHub**: [@maximilianoPizarro](https://github.com/maximilianoPizarro)
+- **Website**: [maximilianopizarro.github.io](https://maximilianopizarro.github.io)
+
+---
+
+## 📝 License
+
+This profile and associated projects are open source. Please refer to individual repository licenses for specific details.
+
+---
+
+**Built with ❤️ using Red Hat technologies**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Red%20Hat-CC0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat">
+  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=red-hat-open-shift&logoColor=white" alt="OpenShift">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+</p>

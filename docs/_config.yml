@@ -1,6 +1,7 @@
 # Site Settings
 title: "Maximiliano Pizarro"
 description: "Specialist Solution Architect at Red Hat LATAM | OpenShift | Application Platform | Cloud Native Technologies"
+tagline: "Personal portfolio with articles, projects, and resources on cloud-native technologies, Red Hat OpenShift, and DevOps"
 baseurl: ""  # Debe estar vacío para repositorios username.github.io
 url: "https://maximilianopizarro.github.io"
 

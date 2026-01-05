@@ -135,6 +135,15 @@ img {
     margin: 0;
 }
 
+.site-tagline {
+    font-size: 0.875rem;
+    color: var(--rh-gray-600);
+    margin: 0.25rem 0 0 0;
+    font-weight: 400;
+    line-height: 1.4;
+    max-width: 500px;
+}
+
 .site-nav ul {
     display: flex;
     list-style: none;

@@ -3,6 +3,7 @@
         <div class="header-content">
             <a href="{{ '/' | relative_url }}" class="site-logo">
                 <h1 class="site-title">{{ site.title }}</h1>
+                {% if site.tagline %}<p class="site-tagline">{{ site.tagline }}</p>{% endif %}
             </a>
             <nav class="site-nav">
                 <ul>

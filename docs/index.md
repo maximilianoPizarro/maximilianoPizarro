@@ -123,6 +123,12 @@ description: Specialist Solution Architect at Red Hat LATAM | OpenShift | Applic
                 </a>
             </article>
         </div>
+        
+        <div style="text-align: center; margin-top: 3rem;">
+            <a href="{{ '/articles' | relative_url }}" class="btn btn-secondary">
+                View All Articles →
+            </a>
+        </div>
     </div>
 </section>
 

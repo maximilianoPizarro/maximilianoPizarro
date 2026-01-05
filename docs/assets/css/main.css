@@ -566,6 +566,142 @@ section {
 }
 
 /* ============================================
+   Page Styles
+   ============================================ */
+
+.page-title {
+    font-size: 2.5rem;
+    text-align: center;
+    color: var(--rh-gray-900);
+    margin-bottom: var(--spacing-md);
+}
+
+.page-description {
+    text-align: center;
+    color: var(--rh-gray-600);
+    font-size: 1.125rem;
+    max-width: 700px;
+    margin: 0 auto var(--spacing-xl);
+}
+
+.about-content {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.about-section {
+    margin-bottom: var(--spacing-2xl);
+}
+
+.about-section h2 {
+    font-size: 2rem;
+    color: var(--rh-gray-900);
+    margin-bottom: var(--spacing-md);
+    border-bottom: 2px solid var(--rh-red);
+    padding-bottom: var(--spacing-sm);
+}
+
+.about-company {
+    font-size: 1.25rem;
+    color: var(--rh-red);
+    font-weight: 600;
+    margin-bottom: var(--spacing-md);
+}
+
+.about-description {
+    font-size: 1.125rem;
+    line-height: 1.8;
+    color: var(--rh-gray-700);
+}
+
+.tech-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: var(--spacing-lg);
+    margin-top: var(--spacing-lg);
+}
+
+.tech-category h3 {
+    font-size: 1.25rem;
+    color: var(--rh-gray-900);
+    margin-bottom: var(--spacing-sm);
+}
+
+.tech-category ul {
+    list-style: none;
+    padding: 0;
+}
+
+.tech-category ul li {
+    padding: var(--spacing-xs) 0;
+    color: var(--rh-gray-700);
+    position: relative;
+    padding-left: var(--spacing-md);
+}
+
+.tech-category ul li::before {
+    content: "▸";
+    position: absolute;
+    left: 0;
+    color: var(--rh-red);
+}
+
+.social-links-large {
+    display: flex;
+    gap: var(--spacing-lg);
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.social-link {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-sm);
+    padding: var(--spacing-sm) var(--spacing-lg);
+    background-color: var(--rh-gray-100);
+    color: var(--rh-gray-700);
+    border-radius: var(--radius-md);
+    transition: all 0.2s ease;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.social-link:hover {
+    background-color: var(--rh-red);
+    color: var(--rh-white);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+}
+
+/* ============================================
+   Section Subtitles
+   ============================================ */
+
+.section-subtitle {
+    font-size: 2rem;
+    color: var(--rh-gray-900);
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: var(--spacing-lg);
+}
+
+/* ============================================
+   LinkedIn Articles
+   ============================================ */
+
+.linkedin-article {
+    border-left: 4px solid #0077B5;
+}
+
+.linkedin-article .article-link {
+    color: #0077B5;
+}
+
+.linkedin-article .article-link:hover {
+    color: #005885;
+}
+
+/* ============================================
    Responsive Design
    ============================================ */
 
@@ -575,6 +711,10 @@ section {
     }
     
     .section-title {
+        font-size: 2rem;
+    }
+    
+    .page-title {
         font-size: 2rem;
     }
     
@@ -589,6 +729,10 @@ section {
     
     .btn {
         width: 100%;
+    }
+    
+    .tech-list {
+        grid-template-columns: 1fr;
     }
 }
 

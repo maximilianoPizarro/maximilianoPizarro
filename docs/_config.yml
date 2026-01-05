@@ -1,7 +1,7 @@
 # Site Settings
 title: "Maximiliano Pizarro"
 description: "Specialist Solution Architect at Red Hat LATAM | OpenShift | Application Platform | Cloud Native Technologies"
-baseurl: "/maximilianoPizarro"
+baseurl: ""  # Cambiar a "/maximilianoPizarro" si el repo NO se llama maximilianoPizarro.github.io
 url: "https://maximilianopizarro.github.io"
 
 # Author Information
@@ -57,6 +57,6 @@ navigation:
   - title: Home
     url: /
   - title: Articles
-    url: /articles/
+    url: /articles
   - title: About
-    url: /about/
+    url: /about

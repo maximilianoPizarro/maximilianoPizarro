@@ -88,6 +88,7 @@ Passionate about cloud-native technologies, containerization, and enterprise sol
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/es-mx/users/maximilianopizarro/)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloudskillsboost.google/public_profiles/d7bb8358-dd83-4da2-8e22-245bb87fb4de/)
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/user/9005ee0c6a4c91f5ab0eab832b1bbf8f)
+[![OpenProfile](https://img.shields.io/badge/OpenProfile-1DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://openprofile.dev/profile/maximilianopizarro)
 
 [![@mpizarro's Holopin board](https://holopin.io/api/user/board?user=mpizarro)](https://holopin.io/@mpizarro)
 

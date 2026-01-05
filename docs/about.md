@@ -10,14 +10,24 @@ permalink: /about
         <h1 class="page-title">About Me</h1>
         
         <div class="about-content">
-            <div class="about-section">
-                <h2>{{ site.author.title }}</h2>
-                <p class="about-company">{{ site.author.company }}</p>
-                <p class="about-description">
-                    Passionate about cloud-native technologies, containerization, and enterprise solutions. 
-                    Specializing in Red Hat OpenShift, Application Platform, and DevOps practices.
-                </p>
+            <div class="about-header">
+                <div class="about-avatar">
+                    <img src="https://media.licdn.com/dms/image/v2/D4D03AQHfk8lgsqD7hA/profile-displayphoto-shrink_400_400/B4DZSyTCxSH0AY-/0/1738158124605?e=1769040000&v=beta&t=goCZEz9jcOccqhJP4rlbHJeEsFUVj0hrWqmd2d0YKbw" 
+                         alt="Maximiliano Pizarro" 
+                         class="about-avatar-image"
+                         loading="lazy">
+                </div>
+                <div class="about-intro">
+                    <h2>{{ site.author.title }}</h2>
+                    <p class="about-company">{{ site.author.company }}</p>
+                    <p class="about-description">
+                        Passionate about cloud-native technologies, containerization, and enterprise solutions. 
+                        Specializing in Red Hat OpenShift, Application Platform, and DevOps practices.
+                    </p>
+                </div>
             </div>
+            
+            <div class="about-section">
 
             <div class="about-section">
                 <h2>Technologies & Expertise</h2>

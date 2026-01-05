@@ -7,6 +7,12 @@ description: Specialist Solution Architect at Red Hat LATAM | OpenShift | Applic
 <div class="hero-section">
     <div class="container">
         <div class="hero-content">
+            <div class="hero-avatar">
+                <img src="https://media.licdn.com/dms/image/v2/D4D03AQHfk8lgsqD7hA/profile-displayphoto-shrink_400_400/B4DZSyTCxSH0AY-/0/1738158124605?e=1769040000&v=beta&t=goCZEz9jcOccqhJP4rlbHJeEsFUVj0hrWqmd2d0YKbw" 
+                     alt="Maximiliano Pizarro" 
+                     class="avatar-image"
+                     loading="eager">
+            </div>
             <div class="hero-text">
                 <h1 class="hero-title">Hi 👋, I'm <span class="highlight">Maximiliano Pizarro</span></h1>
                 <p class="hero-subtitle">{{ site.author.title }} at <strong>{{ site.author.company }}</strong></p>
@@ -155,6 +161,118 @@ description: Specialist Solution Architect at Red Hat LATAM | OpenShift | Applic
                 <div class="achievement-icon">☁️</div>
                 <h3>Google Cloud</h3>
                 <p>Cloud Skills Boost</p>
+            </a>
+            <a href="https://openprofile.dev/profile/maximilianopizarro" class="achievement-card" target="_blank" rel="noopener noreferrer">
+                <div class="achievement-icon">👨‍💻</div>
+                <h3>OpenProfile</h3>
+                <p>Developer Profile</p>
+            </a>
+        </div>
+    </div>
+</section>
+
+<section class="artifact-hub-section">
+    <div class="container">
+        <h2 class="section-title">Artifact Hub Repositories</h2>
+        <p class="section-description">
+            Helm Charts and Kubernetes packages published on Artifact Hub for easy deployment on OpenShift and Kubernetes.
+        </p>
+        
+        <div class="artifact-grid">
+            <a href="https://artifacthub.io/packages/helm/jhipster-online/jhipster-online" class="artifact-card" target="_blank" rel="noopener noreferrer">
+                <div class="artifact-icon">
+                    <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
+                        <path d="M2 17l10 5 10-5"></path>
+                        <path d="M2 12l10 5 10-5"></path>
+                    </svg>
+                </div>
+                <h3 class="artifact-title">JHipster Online</h3>
+                <div class="artifact-badge">
+                    <img src="https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/jhipster-online" alt="JHipster Online">
+                </div>
+                <p class="artifact-description">JHipster Online Helm Chart for Kubernetes and OpenShift</p>
+            </a>
+
+            <a href="https://artifacthub.io/packages/search?repo=botpress" class="artifact-card" target="_blank" rel="noopener noreferrer">
+                <div class="artifact-icon">
+                    <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
+                        <path d="M2 17l10 5 10-5"></path>
+                        <path d="M2 12l10 5 10-5"></path>
+                    </svg>
+                </div>
+                <h3 class="artifact-title">Botpress</h3>
+                <div class="artifact-badge">
+                    <img src="https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/botpress" alt="Botpress">
+                </div>
+                <p class="artifact-description">Botpress Helm Chart repository</p>
+            </a>
+
+            <a href="https://artifacthub.io/packages/search?repo=oracle-helm-charts" class="artifact-card" target="_blank" rel="noopener noreferrer">
+                <div class="artifact-icon">
+                    <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
+                        <path d="M2 17l10 5 10-5"></path>
+                        <path d="M2 12l10 5 10-5"></path>
+                    </svg>
+                </div>
+                <h3 class="artifact-title">Oracle Helm Charts</h3>
+                <div class="artifact-badge">
+                    <img src="https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/oracle-helm-charts" alt="Oracle Helm Charts">
+                </div>
+                <p class="artifact-description">Oracle database and middleware Helm Charts</p>
+            </a>
+
+            <a href="https://artifacthub.io/packages/search?repo=workshop-pipelines" class="artifact-card" target="_blank" rel="noopener noreferrer">
+                <div class="artifact-icon">
+                    <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
+                        <path d="M2 17l10 5 10-5"></path>
+                        <path d="M2 12l10 5 10-5"></path>
+                    </svg>
+                </div>
+                <h3 class="artifact-title">Workshop Pipelines</h3>
+                <div class="artifact-badge">
+                    <img src="https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/workshop-pipelines" alt="Workshop Pipelines">
+                </div>
+                <p class="artifact-description">OpenShift Pipelines workshop Helm Charts</p>
+            </a>
+
+            <a href="https://artifacthub.io/packages/search?repo=librechat-openshift" class="artifact-card" target="_blank" rel="noopener noreferrer">
+                <div class="artifact-icon">
+                    <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
+                        <path d="M2 17l10 5 10-5"></path>
+                        <path d="M2 12l10 5 10-5"></path>
+                    </svg>
+                </div>
+                <h3 class="artifact-title">LibreChat OpenShift</h3>
+                <div class="artifact-badge">
+                    <img src="https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/librechat-openshift" alt="LibreChat OpenShift">
+                </div>
+                <p class="artifact-description">LibreChat deployment for Red Hat OpenShift</p>
+            </a>
+
+            <a href="https://artifacthub.io/packages/search?repo=fineract-openshift" class="artifact-card" target="_blank" rel="noopener noreferrer">
+                <div class="artifact-icon">
+                    <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
+                        <path d="M2 17l10 5 10-5"></path>
+                        <path d="M2 12l10 5 10-5"></path>
+                    </svg>
+                </div>
+                <h3 class="artifact-title">Fineract OpenShift</h3>
+                <div class="artifact-badge">
+                    <img src="https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/fineract-openshift" alt="Fineract OpenShift">
+                </div>
+                <p class="artifact-description">Apache Fineract for OpenShift deployment</p>
+            </a>
+        </div>
+        
+        <div style="text-align: center; margin-top: 2rem;">
+            <a href="https://artifacthub.io" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+                Explore Artifact Hub →
             </a>
         </div>
     </div>

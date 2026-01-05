@@ -58,5 +58,7 @@ navigation:
     url: /
   - title: Articles
     url: /articles
+  - title: Artifact Hub
+    url: /#artifact-hub
   - title: About
     url: /about

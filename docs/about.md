@@ -12,7 +12,7 @@ permalink: /about
         <div class="about-content">
             <div class="about-header">
                 <div class="about-avatar">
-                    <img src="https://media.licdn.com/dms/image/v2/D4D03AQHfk8lgsqD7hA/profile-displayphoto-shrink_400_400/B4DZSyTCxSH0AY-/0/1738158124605?e=1769040000&v=beta&t=goCZEz9jcOccqhJP4rlbHJeEsFUVj0hrWqmd2d0YKbw" 
+                    <img src="{{ '/assets/images/max-avatar.png' | relative_url }}" 
                          alt="Maximiliano Pizarro" 
                          class="about-avatar-image"
                          loading="lazy">

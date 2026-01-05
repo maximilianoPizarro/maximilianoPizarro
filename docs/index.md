@@ -8,7 +8,7 @@ description: Specialist Solution Architect at Red Hat LATAM | OpenShift | Applic
     <div class="container">
         <div class="hero-content">
             <div class="hero-avatar">
-                <img src="https://media.licdn.com/dms/image/v2/D4D03AQHfk8lgsqD7hA/profile-displayphoto-shrink_400_400/B4DZSyTCxSH0AY-/0/1738158124605?e=1769040000&v=beta&t=goCZEz9jcOccqhJP4rlbHJeEsFUVj0hrWqmd2d0YKbw" 
+                <img src="{{ '/assets/images/max-avatar.png' | relative_url }}" 
                      alt="Maximiliano Pizarro" 
                      class="avatar-image"
                      loading="eager">
@@ -171,7 +171,7 @@ description: Specialist Solution Architect at Red Hat LATAM | OpenShift | Applic
     </div>
 </section>
 
-<section class="artifact-hub-section">
+<section id="artifact-hub" class="artifact-hub-section">
     <div class="container">
         <h2 class="section-title">Artifact Hub Repositories</h2>
         <p class="section-description">

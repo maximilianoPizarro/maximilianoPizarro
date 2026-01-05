@@ -179,6 +179,7 @@ img {
     background: linear-gradient(135deg, var(--rh-gray-100) 0%, var(--rh-white) 100%);
     padding: var(--spacing-2xl) 0;
     margin-bottom: var(--spacing-2xl);
+    scroll-margin-top: 80px;
 }
 
 .hero-content {
@@ -504,6 +505,7 @@ section {
 .artifact-hub-section {
     background-color: var(--rh-white);
     border-top: 1px solid var(--rh-gray-200);
+    scroll-margin-top: 80px;
 }
 
 .artifact-grid {

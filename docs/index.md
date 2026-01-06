@@ -68,6 +68,29 @@ description: Specialist Solution Architect at Red Hat LATAM | OpenShift | Applic
             <article class="article-card">
                 <div class="article-icon">
                     <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
+                        <path d="M2 17l10 5 10-5"></path>
+                        <path d="M2 12l10 5 10-5"></path>
+                    </svg>
+                </div>
+                <h3 class="article-title">RHOAI Roadshow: From Zero To Hero</h3>
+                <p class="article-description">
+                    Complete journey working with the Red Hat team to build and deploy a demo showcasing Red Hat OpenShift AI (RHOAI) capabilities and integration with OpenShift.
+                </p>
+                <div class="article-tags">
+                    <span class="tag">RHOAI</span>
+                    <span class="tag">OpenShift</span>
+                    <span class="tag">AI/ML</span>
+                    <span class="tag">Red Hat</span>
+                </div>
+                <a href="https://maximilianopizarro.github.io/rhoai-roadshow-from-zero-to-hero/#/" class="article-link" target="_blank" rel="noopener noreferrer">
+                    Read Article →
+                </a>
+            </article>
+
+            <article class="article-card">
+                <div class="article-icon">
+                    <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
                     </svg>
                 </div>
@@ -268,12 +291,173 @@ description: Specialist Solution Architect at Red Hat LATAM | OpenShift | Applic
                 </div>
                 <p class="artifact-description">Apache Fineract for OpenShift deployment</p>
             </a>
+
+            <a href="https://artifacthub.io/packages/search?repo=mattermost-openshift" class="artifact-card" target="_blank" rel="noopener noreferrer">
+                <div class="artifact-icon">
+                    <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
+                        <path d="M2 17l10 5 10-5"></path>
+                        <path d="M2 12l10 5 10-5"></path>
+                    </svg>
+                </div>
+                <h3 class="artifact-title">Mattermost OpenShift</h3>
+                <div class="artifact-badge">
+                    <img src="https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/mattermost-openshift" alt="Mattermost OpenShift">
+                </div>
+                <p class="artifact-description">Mattermost team collaboration platform for OpenShift</p>
+            </a>
+
+            <a href="https://artifacthub.io/packages/search?repo=n8n-openshift" class="artifact-card" target="_blank" rel="noopener noreferrer">
+                <div class="artifact-icon">
+                    <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
+                        <path d="M2 17l10 5 10-5"></path>
+                        <path d="M2 12l10 5 10-5"></path>
+                    </svg>
+                </div>
+                <h3 class="artifact-title">n8n OpenShift</h3>
+                <div class="artifact-badge">
+                    <img src="https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/n8n-openshift" alt="n8n OpenShift">
+                </div>
+                <p class="artifact-description">n8n workflow automation platform for OpenShift</p>
+            </a>
         </div>
         
         <div style="text-align: center; margin-top: 2rem;">
             <a href="https://artifacthub.io" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
                 Explore Artifact Hub →
             </a>
+        </div>
+    </div>
+</section>
+
+<section id="videos" class="videos-section">
+    <div class="container">
+        <h2 class="section-title">Video Content</h2>
+        <p class="section-description">
+            Watch tutorials, demos, and presentations on Red Hat OpenShift, cloud-native technologies, and DevOps practices.
+        </p>
+        
+        <div class="videos-grid">
+            <div class="video-item">
+                <div class="video-wrapper">
+                    <iframe 
+                        src="https://www.youtube.com/embed/YXOaY-pXajE" 
+                        title="YouTube video player" 
+                        frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                        allowfullscreen>
+                    </iframe>
+                </div>
+            </div>
+
+            <div class="video-item">
+                <div class="video-wrapper">
+                    <iframe 
+                        src="https://www.youtube.com/embed/Bo3ZKwXQKI4" 
+                        title="YouTube video player" 
+                        frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                        allowfullscreen>
+                    </iframe>
+                </div>
+            </div>
+
+            <div class="video-item">
+                <div class="video-wrapper">
+                    <iframe 
+                        src="https://www.youtube.com/embed/OpmKvai22BQ" 
+                        title="YouTube video player" 
+                        frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                        allowfullscreen>
+                    </iframe>
+                </div>
+            </div>
+
+            <div class="video-item">
+                <div class="video-wrapper">
+                    <iframe 
+                        src="https://www.youtube.com/embed/428x2gyuRG0" 
+                        title="YouTube video player" 
+                        frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                        allowfullscreen>
+                    </iframe>
+                </div>
+            </div>
+
+            <div class="video-item">
+                <div class="video-wrapper">
+                    <iframe 
+                        src="https://www.youtube.com/embed/m11wvN2-d1Y" 
+                        title="YouTube video player" 
+                        frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                        allowfullscreen>
+                    </iframe>
+                </div>
+            </div>
+
+            <div class="video-item">
+                <div class="video-wrapper">
+                    <iframe 
+                        src="https://www.youtube.com/embed/b7xbcTAGNIQ" 
+                        title="YouTube video player" 
+                        frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                        allowfullscreen>
+                    </iframe>
+                </div>
+            </div>
+
+            <div class="video-item">
+                <div class="video-wrapper">
+                    <iframe 
+                        src="https://www.youtube.com/embed/1GScYbnaixI" 
+                        title="YouTube video player" 
+                        frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                        allowfullscreen>
+                    </iframe>
+                </div>
+            </div>
+
+            <div class="video-item">
+                <div class="video-wrapper">
+                    <iframe 
+                        src="https://www.youtube.com/embed/qi4WPiWuGbQ" 
+                        title="YouTube video player" 
+                        frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                        allowfullscreen>
+                    </iframe>
+                </div>
+            </div>
+
+            <div class="video-item">
+                <div class="video-wrapper">
+                    <iframe 
+                        src="https://www.youtube.com/embed/M8D0dORuPDM" 
+                        title="YouTube video player" 
+                        frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                        allowfullscreen>
+                    </iframe>
+                </div>
+            </div>
+
+            <div class="video-item">
+                <div class="video-wrapper">
+                    <iframe 
+                        src="https://www.youtube.com/embed/SDzLeBEiOG0" 
+                        title="YouTube video player" 
+                        frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                        allowfullscreen>
+                    </iframe>
+                </div>
+            </div>
         </div>
     </div>
 </section>

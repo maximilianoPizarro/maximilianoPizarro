@@ -292,7 +292,7 @@ description: Specialist Solution Architect at Red Hat LATAM | OpenShift | Applic
                 <p class="artifact-description">Apache Fineract for OpenShift deployment</p>
             </a>
 
-            <a href="https://artifacthub.io/packages/search?repo=mattermost-openshift" class="artifact-card" target="_blank" rel="noopener noreferrer">
+            <a href="https://artifacthub.io/packages/helm/mattermost-team-edition/mattermost-team-edition" class="artifact-card" target="_blank" rel="noopener noreferrer">
                 <div class="artifact-icon">
                     <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
@@ -300,9 +300,9 @@ description: Specialist Solution Architect at Red Hat LATAM | OpenShift | Applic
                         <path d="M2 12l10 5 10-5"></path>
                     </svg>
                 </div>
-                <h3 class="artifact-title">Mattermost OpenShift</h3>
+                <h3 class="artifact-title">Mattermost Team Edition</h3>
                 <div class="artifact-badge">
-                    <img src="https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/mattermost-openshift" alt="Mattermost OpenShift">
+                    <img src="https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/mattermost-team-edition" alt="Mattermost Team Edition">
                 </div>
                 <p class="artifact-description">Mattermost team collaboration platform for OpenShift</p>
             </a>
@@ -458,6 +458,95 @@ description: Specialist Solution Architect at Red Hat LATAM | OpenShift | Applic
                     </iframe>
                 </div>
             </div>
+
+            <div class="video-item">
+                <div class="video-wrapper">
+                    <iframe 
+                        src="https://www.youtube.com/embed/U1NT6ZbUckQ" 
+                        title="YouTube video player" 
+                        frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                        allowfullscreen>
+                    </iframe>
+                </div>
+            </div>
+
+            <div class="video-item">
+                <div class="video-wrapper">
+                    <iframe 
+                        src="https://www.youtube.com/embed/Hb_YtIpe-5I" 
+                        title="YouTube video player" 
+                        frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                        allowfullscreen>
+                    </iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="linkedin-posts" class="linkedin-posts-section">
+    <div class="container">
+        <h2 class="section-title">Latest on LinkedIn</h2>
+        <p class="section-description">
+            Recent posts and updates about my work with Red Hat technologies, OpenShift, and cloud-native solutions.
+        </p>
+        
+        <div class="linkedin-posts-grid">
+            <a href="https://www.linkedin.com/posts/maximiliano-gregorio-pizarro-consultor-it_operatorhub-artifacthub-helm-activity-7349508722932514817-HlpN" class="linkedin-post-card" target="_blank" rel="noopener noreferrer">
+                <div class="linkedin-post-icon">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+                    </svg>
+                </div>
+                <h3 class="linkedin-post-title">JHipster Online on OperatorHub</h3>
+                <p class="linkedin-post-description">
+                    My first operator, JHipster Online, is officially available on OperatorHub! Includes JHipster 8.8.0, generator-jhipster-quarkus 3.4.0, and JDL Studio.
+                </p>
+                <div class="linkedin-post-tags">
+                    <span class="tag">OperatorHub</span>
+                    <span class="tag">ArtifactHub</span>
+                    <span class="tag">Helm</span>
+                    <span class="tag">JHipster</span>
+                </div>
+            </a>
+
+            <a href="https://www.linkedin.com/posts/maximiliano-gregorio-pizarro-consultor-it_kuadrant-connectivitylink-gatewayapi-activity-7345544548695093248-L2On" class="linkedin-post-card" target="_blank" rel="noopener noreferrer">
+                <div class="linkedin-post-icon">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+                    </svg>
+                </div>
+                <h3 class="linkedin-post-title">Kuadrant & Connectivity Link</h3>
+                <p class="linkedin-post-description">
+                    Kuadrant combines Gateway API and Istio-based gateway controllers to enhance application connectivity with TLS, DNS, authentication, and rate limiting policies.
+                </p>
+                <div class="linkedin-post-tags">
+                    <span class="tag">Kuadrant</span>
+                    <span class="tag">ConnectivityLink</span>
+                    <span class="tag">GatewayAPI</span>
+                    <span class="tag">Istio</span>
+                </div>
+            </a>
+
+            <a href="https://www.linkedin.com/posts/maximiliano-gregorio-pizarro-consultor-it_ainativedevelopment-continue-ollama-activity-7344156385741303808--b7r" class="linkedin-post-card" target="_blank" rel="noopener noreferrer">
+                <div class="linkedin-post-icon">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+                    </svg>
+                </div>
+                <h3 class="linkedin-post-title">AI Native Development</h3>
+                <p class="linkedin-post-description">
+                    Exploring AI native development with Continue and Ollama for enhanced developer productivity and AI-powered coding experiences.
+                </p>
+                <div class="linkedin-post-tags">
+                    <span class="tag">AI</span>
+                    <span class="tag">Ollama</span>
+                    <span class="tag">Development</span>
+                    <span class="tag">AI Native</span>
+                </div>
+            </a>
         </div>
     </div>
 </section>

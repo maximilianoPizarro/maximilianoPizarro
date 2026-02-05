@@ -91,6 +91,28 @@ description: Specialist Solution Architect at Red Hat LATAM | OpenShift | Applic
             <article class="article-card">
                 <div class="article-icon">
                     <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <rect x="2" y="5" width="20" height="14" rx="2"></rect>
+                        <line x1="2" y1="10" x2="22" y2="10"></line>
+                    </svg>
+                </div>
+                <h3 class="article-title">NFL Stadium Wallet</h3>
+                <p class="article-description">
+                    Centralized digital wallet for NFL stadiums. Pay, load balance, and manage money at Buffalo Bills and Las Vegas Raiders venues. Vue 3 + .NET 8 APIs, Helm chart, Connectivity Link, and Dev Spaces.
+                </p>
+                <div class="article-tags">
+                    <span class="tag">OpenShift</span>
+                    <span class="tag">Helm</span>
+                    <span class="tag">Connectivity Link</span>
+                    <span class="tag">Kubernetes</span>
+                </div>
+                <a href="https://maximilianopizarro.github.io/NFL-Wallet/" class="article-link" target="_blank" rel="noopener noreferrer">
+                    Read Article →
+                </a>
+            </article>
+
+            <article class="article-card">
+                <div class="article-icon">
+                    <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
                     </svg>
                 </div>

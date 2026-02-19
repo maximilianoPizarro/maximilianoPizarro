@@ -12,7 +12,57 @@ permalink: /articles
             Explore my articles and workshops on Red Hat technologies, OpenShift, and Application Platform solutions.
         </p>
         
-        <h2 class="section-subtitle" style="margin-top: 3rem; margin-bottom: 2rem;">GitHub Pages Projects</h2>
+        <h2 class="section-subtitle" style="margin-top: 3rem; margin-bottom: 2rem;">Red Hat Developer Articles</h2>
+        <p class="page-description" style="margin-bottom: 2rem;">
+            Technical articles published on Red Hat Developer on zero trust, Connectivity Link, and AI resource management.
+        </p>
+        
+        <div class="articles-grid">
+            <article class="article-card">
+                <div class="article-icon">
+                    <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
+                        <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
+                    </svg>
+                </div>
+                <h3 class="article-title">Build a zero trust environment with Red Hat Connectivity Link</h3>
+                <p class="article-description">
+                    This guide shows how to build a zero trust environment using Red Hat Connectivity Link and OpenShift GitOps, managing secure connectivity between services, gateways, and identity providers with the NeuralBank application.
+                </p>
+                <div class="article-tags">
+                    <span class="tag">Zero Trust</span>
+                    <span class="tag">Connectivity Link</span>
+                    <span class="tag">GitOps</span>
+                    <span class="tag">OpenShift</span>
+                </div>
+                <a href="https://developers.redhat.com/articles/2026/02/12/build-zero-trust-environment-red-hat-connectivity-link" class="article-link" target="_blank" rel="noopener noreferrer">
+                    Read on Red Hat Developer →
+                </a>
+            </article>
+
+            <article class="article-card">
+                <div class="article-icon">
+                    <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <polyline points="22 12 18 12 15 21 9 3 6 12 2 12"></polyline>
+                    </svg>
+                </div>
+                <h3 class="article-title">Manage AI resource use with TokenRateLimitPolicy</h3>
+                <p class="article-description">
+                    Introduces TokenRateLimitPolicy for limiting rates based on token consumption in LLM APIs, enabling fair use and cost management beyond request-based rate limiting.
+                </p>
+                <div class="article-tags">
+                    <span class="tag">TokenRateLimitPolicy</span>
+                    <span class="tag">LLM</span>
+                    <span class="tag">Rate Limiting</span>
+                    <span class="tag">Red Hat</span>
+                </div>
+                <a href="https://developers.redhat.com/articles/2026/02/18/manage-ai-resource-use-tokenratelimitpolicy" class="article-link" target="_blank" rel="noopener noreferrer">
+                    Read on Red Hat Developer →
+                </a>
+            </article>
+        </div>
+
+        <h2 class="section-subtitle" style="margin-top: 4rem; margin-bottom: 2rem;">GitHub Pages Projects</h2>
         
         <div class="articles-grid">
             <article class="article-card">

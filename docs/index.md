@@ -216,6 +216,54 @@ description: Specialist Solution Architect at Red Hat LATAM | OpenShift | Applic
                     Read Article →
                 </a>
             </article>
+
+            <article class="article-card">
+                <div class="article-icon">
+                    <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
+                        <polyline points="14 2 14 8 20 8"></polyline>
+                        <line x1="16" y1="13" x2="8" y2="13"></line>
+                        <line x1="16" y1="17" x2="8" y2="17"></line>
+                        <polyline points="10 9 9 9 8 9"></polyline>
+                    </svg>
+                </div>
+                <h3 class="article-title">Stadium Wallet — Complete Documentation</h3>
+                <p class="article-description">
+                    Official installation, testing and architecture guide. Complete digital wallet ecosystem for stadiums on Red Hat OpenShift with GitOps, OSSM3 Ambient Mode, Connectivity Link and Red Hat Developer Hub.
+                </p>
+                <div class="article-tags">
+                    <span class="tag">OpenShift</span>
+                    <span class="tag">GitOps</span>
+                    <span class="tag">Connectivity Link</span>
+                    <span class="tag">OSSM3</span>
+                </div>
+                <a href="https://maximilianopizarro.github.io/stadium-wallet/" class="article-link" target="_blank" rel="noopener noreferrer">
+                    Read Article →
+                </a>
+            </article>
+
+            <article class="article-card">
+                <div class="article-icon">
+                    <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <circle cx="12" cy="12" r="10"></circle>
+                        <line x1="2" y1="12" x2="22" y2="12"></line>
+                        <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
+                    </svg>
+                </div>
+                <h3 class="article-title">NFL Wallet GitOps</h3>
+                <p class="article-description">
+                    GitOps repository and deployment configurations for Stadium Wallet. Argo CD Applications, Kustomize overlays, and multi-cluster setup with ACM.
+                </p>
+                <div class="article-tags">
+                    <span class="tag">GitOps</span>
+                    <span class="tag">Argo CD</span>
+                    <span class="tag">Kustomize</span>
+                    <span class="tag">OpenShift</span>
+                </div>
+                <a href="https://maximilianopizarro.github.io/nfl-wallet-gitops/" class="article-link" target="_blank" rel="noopener noreferrer">
+                    Read Article →
+                </a>
+            </article>
         </div>
         
         <div style="text-align: center; margin-top: 3rem;">
@@ -280,6 +328,21 @@ description: Specialist Solution Architect at Red Hat LATAM | OpenShift | Applic
                     <img src="https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/jhipster-online" alt="JHipster Online">
                 </div>
                 <p class="artifact-description">JHipster Online Helm Chart for Kubernetes and OpenShift</p>
+            </a>
+
+            <a href="https://artifacthub.io/packages/helm/nfl-wallet/nfl-wallet" class="artifact-card" target="_blank" rel="noopener noreferrer">
+                <div class="artifact-icon">
+                    <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
+                        <path d="M2 17l10 5 10-5"></path>
+                        <path d="M2 12l10 5 10-5"></path>
+                    </svg>
+                </div>
+                <h3 class="artifact-title">NFL Wallet</h3>
+                <div class="artifact-badge">
+                    <img src="https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/nfl-wallet" alt="NFL Wallet">
+                </div>
+                <p class="artifact-description">Stadium Wallet Helm Chart for OpenShift and Kubernetes — Vue 3, .NET 8, Connectivity Link</p>
             </a>
 
             <a href="https://artifacthub.io/packages/search?repo=botpress" class="artifact-card" target="_blank" rel="noopener noreferrer">

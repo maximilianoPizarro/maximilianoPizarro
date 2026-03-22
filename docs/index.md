@@ -68,6 +68,27 @@ description: Specialist Solution Architect at Red Hat LATAM | OpenShift | Applic
             <article class="article-card">
                 <div class="article-icon">
                     <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
+                    </svg>
+                </div>
+                <h3 class="article-title">RHBK NeuroFace Biometric Flow</h3>
+                <p class="article-description">
+                    Red Hat Build of Keycloak with biometric facial recognition authentication via NeuroFace. Delegated user creation, webcam enrollment, and 2FA facial verification — deployed with a single Helm install on OpenShift.
+                </p>
+                <div class="article-tags">
+                    <span class="tag">RHBK 26.0</span>
+                    <span class="tag">Keycloak SPI</span>
+                    <span class="tag">Facial 2FA</span>
+                    <span class="tag">OpenShift</span>
+                </div>
+                <a href="https://maximilianopizarro.github.io/rhbk-biometric-flow/" class="article-link" target="_blank" rel="noopener noreferrer">
+                    Read Article →
+                </a>
+            </article>
+
+            <article class="article-card">
+                <div class="article-icon">
+                    <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
                         <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
                     </svg>
@@ -315,6 +336,36 @@ description: Specialist Solution Architect at Red Hat LATAM | OpenShift | Applic
         </p>
         
         <div class="artifact-grid">
+            <a href="https://artifacthub.io/packages/helm/rhbk-neuroface/rhbk-neuroface" class="artifact-card" target="_blank" rel="noopener noreferrer">
+                <div class="artifact-icon">
+                    <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
+                        <path d="M2 17l10 5 10-5"></path>
+                        <path d="M2 12l10 5 10-5"></path>
+                    </svg>
+                </div>
+                <h3 class="artifact-title">RHBK NeuroFace</h3>
+                <div class="artifact-badge">
+                    <img src="https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/rhbk-neuroface" alt="RHBK NeuroFace">
+                </div>
+                <p class="artifact-description">RHBK + NeuroFace biometric authentication Helm Chart for OpenShift</p>
+            </a>
+
+            <a href="https://artifacthub.io/packages/helm/neuroface/neuroface" class="artifact-card" target="_blank" rel="noopener noreferrer">
+                <div class="artifact-icon">
+                    <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
+                        <path d="M2 17l10 5 10-5"></path>
+                        <path d="M2 12l10 5 10-5"></path>
+                    </svg>
+                </div>
+                <h3 class="artifact-title">NeuroFace</h3>
+                <div class="artifact-badge">
+                    <img src="https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/neuroface" alt="NeuroFace">
+                </div>
+                <p class="artifact-description">NeuroFace facial recognition service Helm Chart — FastAPI + Angular 17</p>
+            </a>
+
             <a href="https://artifacthub.io/packages/helm/jhipster-online/jhipster-online" class="artifact-card" target="_blank" rel="noopener noreferrer">
                 <div class="artifact-icon">
                     <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -467,6 +518,30 @@ description: Specialist Solution Architect at Red Hat LATAM | OpenShift | Applic
         </p>
         
         <div class="videos-grid">
+            <div class="video-item">
+                <div class="video-wrapper">
+                    <iframe 
+                        src="https://www.youtube.com/embed/_PcsflxvJWY" 
+                        title="RHBK NeuroFace — Biometric Authentication Flow" 
+                        frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                        allowfullscreen>
+                    </iframe>
+                </div>
+            </div>
+
+            <div class="video-item">
+                <div class="video-wrapper">
+                    <iframe 
+                        src="https://www.youtube.com/embed/lvFu5u7slXg" 
+                        title="NeuroFace — Facial Recognition in Action" 
+                        frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                        allowfullscreen>
+                    </iframe>
+                </div>
+            </div>
+
             <div class="video-item">
                 <div class="video-wrapper">
                     <iframe 

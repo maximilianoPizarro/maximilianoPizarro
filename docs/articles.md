@@ -68,6 +68,27 @@ permalink: /articles
             <article class="article-card">
                 <div class="article-icon">
                     <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
+                    </svg>
+                </div>
+                <h3 class="article-title">RHBK NeuroFace Biometric Flow</h3>
+                <p class="article-description">
+                    Red Hat Build of Keycloak with biometric facial recognition authentication via NeuroFace. Delegated user creation, webcam enrollment, and 2FA facial verification — deployed with a single Helm install on OpenShift.
+                </p>
+                <div class="article-tags">
+                    <span class="tag">RHBK 26.0</span>
+                    <span class="tag">Keycloak SPI</span>
+                    <span class="tag">Facial 2FA</span>
+                    <span class="tag">OpenShift</span>
+                </div>
+                <a href="https://maximilianopizarro.github.io/rhbk-biometric-flow/" class="article-link" target="_blank" rel="noopener noreferrer">
+                    Read Article →
+                </a>
+            </article>
+
+            <article class="article-card">
+                <div class="article-icon">
+                    <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
                         <polyline points="14 2 14 8 20 8"></polyline>
                         <line x1="16" y1="13" x2="8" y2="13"></line>

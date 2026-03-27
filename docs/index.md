@@ -68,6 +68,49 @@ description: Specialist Solution Architect at Red Hat LATAM | OpenShift | Applic
             <article class="article-card">
                 <div class="article-icon">
                     <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+                    </svg>
+                </div>
+                <h3 class="article-title">Showroom Docs MCP Server</h3>
+                <p class="article-description">
+                    Quarkus MCP Server for OpenShift Lightspeed. Indexes 46 documents from Red Hat products and the "IA Development From Zero To Hero" workshop, exposing 4 MCP tools for intelligent documentation via chat.
+                </p>
+                <div class="article-tags">
+                    <span class="tag">MCP</span>
+                    <span class="tag">Quarkus</span>
+                    <span class="tag">OpenShift Lightspeed</span>
+                    <span class="tag">Helm</span>
+                </div>
+                <a href="https://maximilianopizarro.github.io/showroom-docs-mcp/" class="article-link" target="_blank" rel="noopener noreferrer">
+                    Read Article →
+                </a>
+            </article>
+
+            <article class="article-card">
+                <div class="article-icon">
+                    <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
+                        <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
+                    </svg>
+                </div>
+                <h3 class="article-title">RHBK + Data Grid — High Availability</h3>
+                <p class="article-description">
+                    Helm chart for Red Hat Build of Keycloak (RHBK) in High Availability mode with Red Hat Data Grid as external distributed cache and PostgreSQL. JGroups clustering with jdbc-ping and DNS_PING discovery.
+                </p>
+                <div class="article-tags">
+                    <span class="tag">RHBK</span>
+                    <span class="tag">Data Grid</span>
+                    <span class="tag">High Availability</span>
+                    <span class="tag">Helm</span>
+                </div>
+                <a href="https://maximilianopizarro.github.io/rhbk-datagrid-sample/" class="article-link" target="_blank" rel="noopener noreferrer">
+                    Read Article →
+                </a>
+            </article>
+
+            <article class="article-card">
+                <div class="article-icon">
+                    <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path>
                     </svg>
                 </div>
@@ -336,6 +379,36 @@ description: Specialist Solution Architect at Red Hat LATAM | OpenShift | Applic
         </p>
         
         <div class="artifact-grid">
+            <a href="https://artifacthub.io/packages/helm/showroom-docs-mcp/showroom-docs-mcp" class="artifact-card" target="_blank" rel="noopener noreferrer">
+                <div class="artifact-icon">
+                    <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
+                        <path d="M2 17l10 5 10-5"></path>
+                        <path d="M2 12l10 5 10-5"></path>
+                    </svg>
+                </div>
+                <h3 class="artifact-title">Showroom Docs MCP</h3>
+                <div class="artifact-badge">
+                    <img src="https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/showroom-docs-mcp" alt="Showroom Docs MCP">
+                </div>
+                <p class="artifact-description">Quarkus MCP Server for OpenShift Lightspeed — 46 indexed documents, 4 MCP tools</p>
+            </a>
+
+            <a href="https://artifacthub.io/packages/helm/rhbk-datagrid/rhbk-datagrid" class="artifact-card" target="_blank" rel="noopener noreferrer">
+                <div class="artifact-icon">
+                    <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
+                        <path d="M2 17l10 5 10-5"></path>
+                        <path d="M2 12l10 5 10-5"></path>
+                    </svg>
+                </div>
+                <h3 class="artifact-title">RHBK Data Grid</h3>
+                <div class="artifact-badge">
+                    <img src="https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/rhbk-datagrid" alt="RHBK Data Grid">
+                </div>
+                <p class="artifact-description">RHBK High Availability with Red Hat Data Grid and PostgreSQL Helm Chart</p>
+            </a>
+
             <a href="https://artifacthub.io/packages/helm/rhbk-neuroface/rhbk-neuroface" class="artifact-card" target="_blank" rel="noopener noreferrer">
                 <div class="artifact-icon">
                     <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -697,6 +770,24 @@ description: Specialist Solution Architect at Red Hat LATAM | OpenShift | Applic
         </p>
         
         <div class="linkedin-posts-grid">
+            <a href="https://www.linkedin.com/pulse/extending-openshift-lightspeed-mcp-intelligent-via-chat-pizarro-dynpf/" class="linkedin-post-card" target="_blank" rel="noopener noreferrer">
+                <div class="linkedin-post-icon">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+                    </svg>
+                </div>
+                <h3 class="linkedin-post-title">Extending OpenShift Lightspeed with MCP</h3>
+                <p class="linkedin-post-description">
+                    Built an MCP server with Quarkus that turns 46 Red Hat documents into contextual answers for OpenShift Lightspeed using Model Context Protocol instead of traditional RAG.
+                </p>
+                <div class="linkedin-post-tags">
+                    <span class="tag">MCP</span>
+                    <span class="tag">OpenShift Lightspeed</span>
+                    <span class="tag">Quarkus</span>
+                    <span class="tag">AI</span>
+                </div>
+            </a>
+
             <a href="https://www.linkedin.com/posts/maximiliano-gregorio-pizarro-consultor-it_operatorhub-artifacthub-helm-activity-7349508722932514817-HlpN" class="linkedin-post-card" target="_blank" rel="noopener noreferrer">
                 <div class="linkedin-post-icon">
                     <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">

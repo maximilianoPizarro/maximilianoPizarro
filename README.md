@@ -61,6 +61,12 @@ Passionate about cloud-native technologies, containerization, and enterprise sol
 
 ### 🔴 Red Hat Technologies
 
+- **[Showroom Docs MCP Server](https://maximilianopizarro.github.io/showroom-docs-mcp/)**  
+  Quarkus MCP Server for OpenShift Lightspeed. Indexes 46 documents from Red Hat products, exposing 4 MCP tools for intelligent documentation via chat.
+
+- **[RHBK + Data Grid — High Availability](https://maximilianopizarro.github.io/rhbk-datagrid-sample/)**  
+  Helm chart for Red Hat Build of Keycloak (RHBK) in HA mode with Red Hat Data Grid as external distributed cache and PostgreSQL.
+
 - **[Red Hat Chat](https://maximilianopizarro.github.io/LibreChat-RedHat/)**  
   AI Conversations with Red Hat Design System. Deploy locally with Podman or on OpenShift using container images from Quay.io.
 
@@ -72,6 +78,8 @@ Passionate about cloud-native technologies, containerization, and enterprise sol
 
 ### 📦 Helm Charts & Artifact Hub
 
+[![Showroom Docs MCP](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/showroom-docs-mcp)](https://artifacthub.io/packages/helm/showroom-docs-mcp/showroom-docs-mcp)
+[![RHBK Data Grid](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/rhbk-datagrid)](https://artifacthub.io/packages/helm/rhbk-datagrid/rhbk-datagrid)
 [![JHipster Online](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/jhipster-online)](https://artifacthub.io/packages/helm/jhipster-online/jhipster-online)
 [![Botpress](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/botpress)](https://artifacthub.io/packages/search?repo=botpress)
 [![Oracle Helm Charts](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/oracle-helm-charts)](https://artifacthub.io/packages/search?repo=oracle-helm-charts)

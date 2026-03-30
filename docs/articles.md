@@ -132,6 +132,28 @@ permalink: /articles
             <article class="article-card">
                 <div class="article-icon">
                     <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <circle cx="12" cy="8" r="5"></circle>
+                        <path d="M3 21v-2a7 7 0 0 1 7-7h4a7 7 0 0 1 7 7v2"></path>
+                    </svg>
+                </div>
+                <h3 class="article-title">NeuroFace</h3>
+                <p class="article-description">
+                    Facial recognition and object detection web application built with FastAPI and Angular 17. Supports OpenCV Haar Cascades, OpenVINO Model Server, LBPH/dlib recognition, and YOLOv4-tiny object detection — containerized with Red Hat UBI9 for OpenShift.
+                </p>
+                <div class="article-tags">
+                    <span class="tag">OpenShift AI</span>
+                    <span class="tag">FastAPI</span>
+                    <span class="tag">Angular</span>
+                    <span class="tag">OpenVINO</span>
+                </div>
+                <a href="https://maximilianopizarro.github.io/neuroface/" class="article-link" target="_blank" rel="noopener noreferrer">
+                    Read Article →
+                </a>
+            </article>
+
+            <article class="article-card">
+                <div class="article-icon">
+                    <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
                         <polyline points="14 2 14 8 20 8"></polyline>
                         <line x1="16" y1="13" x2="8" y2="13"></line>

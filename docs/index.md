@@ -132,6 +132,28 @@ description: Specialist Solution Architect at Red Hat LATAM | OpenShift | Applic
             <article class="article-card">
                 <div class="article-icon">
                     <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <circle cx="12" cy="8" r="5"></circle>
+                        <path d="M3 21v-2a7 7 0 0 1 7-7h4a7 7 0 0 1 7 7v2"></path>
+                    </svg>
+                </div>
+                <h3 class="article-title">NeuroFace</h3>
+                <p class="article-description">
+                    Facial recognition and object detection web application built with FastAPI and Angular 17. Supports OpenCV Haar Cascades, OpenVINO Model Server, LBPH/dlib recognition, and YOLOv4-tiny object detection — containerized with Red Hat UBI9 for OpenShift.
+                </p>
+                <div class="article-tags">
+                    <span class="tag">OpenShift AI</span>
+                    <span class="tag">FastAPI</span>
+                    <span class="tag">Angular</span>
+                    <span class="tag">OpenVINO</span>
+                </div>
+                <a href="https://maximilianopizarro.github.io/neuroface/" class="article-link" target="_blank" rel="noopener noreferrer">
+                    Read Article →
+                </a>
+            </article>
+
+            <article class="article-card">
+                <div class="article-icon">
+                    <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
                         <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
                     </svg>
@@ -591,6 +613,18 @@ description: Specialist Solution Architect at Red Hat LATAM | OpenShift | Applic
         </p>
         
         <div class="videos-grid">
+            <div class="video-item">
+                <div class="video-wrapper">
+                    <iframe 
+                        src="https://www.youtube.com/embed/E52h4-aS5Rg" 
+                        title="NeuroFace — Object Detection & Facial Recognition Demo" 
+                        frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                        allowfullscreen>
+                    </iframe>
+                </div>
+            </div>
+
             <div class="video-item">
                 <div class="video-wrapper">
                     <iframe 

@@ -68,6 +68,27 @@ description: Specialist Solution Architect at Red Hat LATAM | OpenShift | Applic
             <article class="article-card">
                 <div class="article-icon">
                     <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
+                    </svg>
+                </div>
+                <h3 class="article-title">OpenShift MCP Server</h3>
+                <p class="article-description">
+                    Enterprise MCP Server for OpenShift Lightspeed. Dual server deployment combining 19 custom Quarkus operational tools with the official Kubernetes MCP server — 40+ tools for monitoring, deployment, and performance testing.
+                </p>
+                <div class="article-tags">
+                    <span class="tag">MCP</span>
+                    <span class="tag">OpenShift Lightspeed</span>
+                    <span class="tag">Quarkus</span>
+                    <span class="tag">Kubernetes</span>
+                </div>
+                <a href="https://maximilianopizarro.github.io/openshift-mcp-server/" class="article-link" target="_blank" rel="noopener noreferrer">
+                    Read Article →
+                </a>
+            </article>
+
+            <article class="article-card">
+                <div class="article-icon">
+                    <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
                     </svg>
                 </div>
@@ -401,6 +422,21 @@ description: Specialist Solution Architect at Red Hat LATAM | OpenShift | Applic
         </p>
         
         <div class="artifact-grid">
+            <a href="https://artifacthub.io/packages/helm/openshift-mcp-server/openshift-mcp-server" class="artifact-card" target="_blank" rel="noopener noreferrer">
+                <div class="artifact-icon">
+                    <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
+                        <path d="M2 17l10 5 10-5"></path>
+                        <path d="M2 12l10 5 10-5"></path>
+                    </svg>
+                </div>
+                <h3 class="artifact-title">OpenShift MCP Server</h3>
+                <div class="artifact-badge">
+                    <img src="https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/openshift-mcp-server" alt="OpenShift MCP Server">
+                </div>
+                <p class="artifact-description">Enterprise dual MCP Server for OpenShift Lightspeed — 40+ tools, Helm Chart</p>
+            </a>
+
             <a href="https://artifacthub.io/packages/helm/showroom-docs-mcp/showroom-docs-mcp" class="artifact-card" target="_blank" rel="noopener noreferrer">
                 <div class="artifact-icon">
                     <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">

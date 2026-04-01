@@ -61,6 +61,9 @@ Passionate about cloud-native technologies, containerization, and enterprise sol
 
 ### 🔴 Red Hat Technologies
 
+- **[OpenShift MCP Server](https://maximilianopizarro.github.io/openshift-mcp-server/)**  
+  Enterprise MCP Server for OpenShift Lightspeed. Dual server deployment with 40+ tools for monitoring, deployment, and performance testing.
+
 - **[Showroom Docs MCP Server](https://maximilianopizarro.github.io/showroom-docs-mcp/)**  
   Quarkus MCP Server for OpenShift Lightspeed. Indexes 46 documents from Red Hat products, exposing 4 MCP tools for intelligent documentation via chat.
 
@@ -78,6 +81,7 @@ Passionate about cloud-native technologies, containerization, and enterprise sol
 
 ### 📦 Helm Charts & Artifact Hub
 
+[![OpenShift MCP Server](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/openshift-mcp-server)](https://artifacthub.io/packages/helm/openshift-mcp-server/openshift-mcp-server)
 [![Showroom Docs MCP](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/showroom-docs-mcp)](https://artifacthub.io/packages/helm/showroom-docs-mcp/showroom-docs-mcp)
 [![RHBK Data Grid](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/rhbk-datagrid)](https://artifacthub.io/packages/helm/rhbk-datagrid/rhbk-datagrid)
 [![JHipster Online](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/jhipster-online)](https://artifacthub.io/packages/helm/jhipster-online/jhipster-online)

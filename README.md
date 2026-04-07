@@ -61,6 +61,9 @@ Passionate about cloud-native technologies, containerization, and enterprise sol
 
 ### 🔴 Red Hat Technologies
 
+- **[n8n Helm Chart for Kubernetes & OpenShift](https://maximilianopizarro.github.io/n8n-helm-chart/)**  
+  Deploy n8n workflow automation with AI capabilities, OpenShift MCP Server integration, Mailpit email testing, and Developer Sandbox support.
+
 - **[OpenShift MCP Server](https://maximilianopizarro.github.io/openshift-mcp-server/)**  
   Enterprise MCP Server for OpenShift Lightspeed. Dual server deployment with 40+ tools for monitoring, deployment, and performance testing.
 
@@ -81,6 +84,7 @@ Passionate about cloud-native technologies, containerization, and enterprise sol
 
 ### 📦 Helm Charts & Artifact Hub
 
+[![n8n OpenShift](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/n8n-openshift)](https://artifacthub.io/packages/helm/n8n-openshift/n8n)
 [![OpenShift MCP Server](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/openshift-mcp-server)](https://artifacthub.io/packages/helm/openshift-mcp-server/openshift-mcp-server)
 [![Showroom Docs MCP](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/showroom-docs-mcp)](https://artifacthub.io/packages/helm/showroom-docs-mcp/showroom-docs-mcp)
 [![RHBK Data Grid](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/rhbk-datagrid)](https://artifacthub.io/packages/helm/rhbk-datagrid/rhbk-datagrid)

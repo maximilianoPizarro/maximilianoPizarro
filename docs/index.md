@@ -90,6 +90,29 @@ description: Specialist Solution Architect at Red Hat LATAM | OpenShift | Applic
             <article class="article-card">
                 <div class="article-icon">
                     <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
+                        <path d="M2 17l10 5 10-5"></path>
+                        <path d="M2 12l10 5 10-5"></path>
+                    </svg>
+                </div>
+                <h3 class="article-title">Connectivity Link — Architecture AI/MCP</h3>
+                <p class="article-description">
+                    Zero Trust Architecture with OpenShift GitOps. Complete AI/MCP integration with OpenShift Lightspeed, LiteLLM, MCP Gateway (38 federated tools), vLLM CPU fallback, and 17 n8n workflows for cluster operations.
+                </p>
+                <div class="article-tags">
+                    <span class="tag">Connectivity Link</span>
+                    <span class="tag">MCP Gateway</span>
+                    <span class="tag">Zero Trust</span>
+                    <span class="tag">OpenShift</span>
+                </div>
+                <a href="https://connectivity-link-137eba.gitlab.io/architecture/" class="article-link" target="_blank" rel="noopener noreferrer">
+                    Read Article →
+                </a>
+            </article>
+
+            <article class="article-card">
+                <div class="article-icon">
+                    <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
                     </svg>
                 </div>

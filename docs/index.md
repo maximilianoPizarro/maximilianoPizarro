@@ -90,6 +90,27 @@ description: Specialist Solution Architect at Red Hat LATAM | OpenShift | Applic
             <article class="article-card">
                 <div class="article-icon">
                     <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+                    </svg>
+                </div>
+                <h3 class="article-title">LibreChat Helm Chart for OpenShift</h3>
+                <p class="article-description">
+                    Multi-model AI chat platform for OpenShift. Deploys LibreChat v0.8.5-rc1 with LiteLLM proxy, MCP support, MongoDB, PostgreSQL (pgvector), Meilisearch, and RAG API on Red Hat UBI 9. Developer Sandbox ready.
+                </p>
+                <div class="article-tags">
+                    <span class="tag">LibreChat</span>
+                    <span class="tag">AI</span>
+                    <span class="tag">Helm</span>
+                    <span class="tag">OpenShift</span>
+                </div>
+                <a href="https://maximilianopizarro.github.io/librechat/" class="article-link" target="_blank" rel="noopener noreferrer">
+                    Read Article →
+                </a>
+            </article>
+
+            <article class="article-card">
+                <div class="article-icon">
+                    <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
                         <path d="M2 17l10 5 10-5"></path>
                         <path d="M2 12l10 5 10-5"></path>
@@ -632,7 +653,7 @@ description: Specialist Solution Architect at Red Hat LATAM | OpenShift | Applic
                 <p class="artifact-description">OpenShift Pipelines workshop Helm Charts</p>
             </a>
 
-            <a href="https://artifacthub.io/packages/search?repo=librechat-openshift" class="artifact-card" target="_blank" rel="noopener noreferrer">
+            <a href="https://artifacthub.io/packages/helm/librechat-openshift/librechat" class="artifact-card" target="_blank" rel="noopener noreferrer">
                 <div class="artifact-icon">
                     <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
@@ -644,7 +665,7 @@ description: Specialist Solution Architect at Red Hat LATAM | OpenShift | Applic
                 <div class="artifact-badge">
                     <img src="https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/librechat-openshift" alt="LibreChat OpenShift">
                 </div>
-                <p class="artifact-description">LibreChat deployment for Red Hat OpenShift</p>
+                <p class="artifact-description">Multi-model AI chat platform Helm Chart — LiteLLM, MCP, RAG, UBI 9</p>
             </a>
 
             <a href="https://artifacthub.io/packages/search?repo=fineract-openshift" class="artifact-card" target="_blank" rel="noopener noreferrer">

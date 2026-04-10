@@ -64,6 +64,9 @@ Passionate about cloud-native technologies, containerization, and enterprise sol
 - **[Connectivity Link — Architecture AI/MCP](https://connectivity-link-137eba.gitlab.io/architecture/)**  
   Zero Trust Architecture with AI/MCP integration: OpenShift Lightspeed, MCP Gateway (38 federated tools), LiteLLM, vLLM CPU fallback, and 17 n8n workflows.
 
+- **[LibreChat Helm Chart for OpenShift](https://maximilianopizarro.github.io/librechat/)**  
+  Multi-model AI chat platform on Red Hat UBI 9. LibreChat v0.8.5-rc1 with LiteLLM proxy, MCP, MongoDB, PostgreSQL (pgvector), Meilisearch, and RAG API.
+
 - **[n8n Helm Chart for Kubernetes & OpenShift](https://maximilianopizarro.github.io/n8n-helm-chart/)**  
   Deploy n8n workflow automation with AI capabilities, OpenShift MCP Server integration, Mailpit email testing, and Developer Sandbox support.
 

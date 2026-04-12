@@ -68,6 +68,28 @@ description: Specialist Solution Architect at Red Hat LATAM | OpenShift | Applic
             <article class="article-card">
                 <div class="article-icon">
                     <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path>
+                        <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path>
+                    </svg>
+                </div>
+                <h3 class="article-title">From Zero To Hero with Red Hat Developer Hub</h3>
+                <p class="article-description">
+                    OpenShift Commons Gathering Buenos Aires 2026 workshop. Build, deploy, secure, and observe applications on OpenShift using Developer Hub, Tekton pipelines, ArgoCD GitOps, Connectivity Link, Developer Lightspeed, and MCP Gateway.
+                </p>
+                <div class="article-tags">
+                    <span class="tag">Developer Hub</span>
+                    <span class="tag">Lightspeed</span>
+                    <span class="tag">MCP Gateway</span>
+                    <span class="tag">OpenShift</span>
+                </div>
+                <a href="https://maximilianopizarro.github.io/test-drive-pe-oscg/" class="article-link" target="_blank" rel="noopener noreferrer">
+                    Read Article →
+                </a>
+            </article>
+
+            <article class="article-card">
+                <div class="article-icon">
+                    <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <circle cx="12" cy="12" r="3"></circle>
                         <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83-2.83l.06-.06A1.65 1.65 0 0 0 4.68 15a1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 2.83-2.83l.06.06A1.65 1.65 0 0 0 9 4.68a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 2.83l-.06.06A1.65 1.65 0 0 0 19.4 9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"></path>
                     </svg>

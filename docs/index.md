@@ -68,6 +68,27 @@ description: Specialist Solution Architect at Red Hat LATAM | OpenShift | Applic
             <article class="article-card">
                 <div class="article-icon">
                     <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <polyline points="22 12 18 12 15 21 9 3 6 12 2 12"></polyline>
+                    </svg>
+                </div>
+                <h3 class="article-title">Event-Driven Architecture Live</h3>
+                <p class="article-description">
+                    Complete CDC pipeline on Red Hat OpenShift with Streams for Apache Kafka (KRaft mode), Debezium, Apache Camel + Kaoto, SonataFlow, Apicurio Registry, Grafana observability, Service Mesh, and OpenShift Lightspeed MCP tools.
+                </p>
+                <div class="article-tags">
+                    <span class="tag">Kafka</span>
+                    <span class="tag">Debezium</span>
+                    <span class="tag">CDC</span>
+                    <span class="tag">OpenShift</span>
+                </div>
+                <a href="https://maximilianopizarro.github.io/field-sourced-content-template/" class="article-link" target="_blank" rel="noopener noreferrer">
+                    Read Article →
+                </a>
+            </article>
+
+            <article class="article-card">
+                <div class="article-icon">
+                    <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path>
                         <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path>
                     </svg>
@@ -82,7 +103,7 @@ description: Specialist Solution Architect at Red Hat LATAM | OpenShift | Applic
                     <span class="tag">MCP Gateway</span>
                     <span class="tag">OpenShift</span>
                 </div>
-                <a href="https://maximilianopizarro.github.io/test-drive-pe-oscg/" class="article-link" target="_blank" rel="noopener noreferrer">
+                <a href="https://maximilianopizarro.github.io/test-drive-pe-oscg/modules/index.html" class="article-link" target="_blank" rel="noopener noreferrer">
                     Read Article →
                 </a>
             </article>

@@ -68,6 +68,50 @@ permalink: /articles
             <article class="article-card">
                 <div class="article-icon">
                     <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
+                        <path d="M2 17l10 5 10-5"></path>
+                        <path d="M2 12l10 5 10-5"></path>
+                    </svg>
+                </div>
+                <h3 class="article-title">From 3scale to Connectivity Link</h3>
+                <p class="article-description">
+                    Migration workshop from Red Hat 3scale API Management to Connectivity Link (Kuadrant). Side-by-side comparison of OIDC and API Key authentication, rate limiting, GitOps, and a generic Developer Hub Software Template for automated migration.
+                </p>
+                <div class="article-tags">
+                    <span class="tag">3scale</span>
+                    <span class="tag">Connectivity Link</span>
+                    <span class="tag">Kuadrant</span>
+                    <span class="tag">OpenShift</span>
+                </div>
+                <a href="https://maximilianopizarro.github.io/from-3scale-to-connectivity-link/modules/index.html" class="article-link" target="_blank" rel="noopener noreferrer">
+                    Read Article →
+                </a>
+            </article>
+
+            <article class="article-card">
+                <div class="article-icon">
+                    <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
+                    </svg>
+                </div>
+                <h3 class="article-title">GateForge — 3scale to Connectivity Link Migration</h3>
+                <p class="article-description">
+                    AI-powered migration platform from Red Hat 3scale to Connectivity Link (Kuadrant). Quarkus backend with MCP tool calling, Angular 18 frontend with Red Hat Design System, kuadrantctl CLI integration, and shared/dual/dedicated gateway strategies.
+                </p>
+                <div class="article-tags">
+                    <span class="tag">GateForge</span>
+                    <span class="tag">AI</span>
+                    <span class="tag">MCP</span>
+                    <span class="tag">Kuadrant</span>
+                </div>
+                <a href="https://maximilianopizarro.github.io/gateforge/" class="article-link" target="_blank" rel="noopener noreferrer">
+                    Read Article →
+                </a>
+            </article>
+
+            <article class="article-card">
+                <div class="article-icon">
+                    <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <polyline points="22 12 18 12 15 21 9 3 6 12 2 12"></polyline>
                     </svg>
                 </div>

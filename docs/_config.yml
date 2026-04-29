@@ -5,6 +5,9 @@ tagline: "Personal portfolio with articles, projects, and resources on cloud-nat
 baseurl: ""  # Debe estar vacío para repositorios username.github.io
 url: "https://maximilianopizarro.github.io"
 
+# Google Analytics 4 (Measurement ID). Leave empty to disable tracking locally if desired.
+google_analytics: G-Y69BN8T1E6
+
 # Author Information
 author:
   name: "Maximiliano Pizarro"

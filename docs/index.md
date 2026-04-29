@@ -480,6 +480,29 @@ description: Specialist Solution Architect at Red Hat LATAM | OpenShift | Applic
             <article class="article-card">
                 <div class="article-icon">
                     <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect>
+                        <line x1="8" y1="21" x2="16" y2="21"></line>
+                        <line x1="12" y1="17" x2="12" y2="21"></line>
+                    </svg>
+                </div>
+                <h3 class="article-title">RHEL VM bootc — Golden Path</h3>
+                <p class="article-description">
+                    Backstage Software Template for Red Hat Developer Hub: self-service RHEL VMs on OpenShift Virtualization with GitOps (Argo CD), bootc image-mode RHEL, catalog registration, and optional Connectivity Link (Gateway API, OIDC/API Key, rate limits).
+                </p>
+                <div class="article-tags">
+                    <span class="tag">bootc</span>
+                    <span class="tag">OpenShift Virtualization</span>
+                    <span class="tag">GitOps</span>
+                    <span class="tag">Developer Hub</span>
+                </div>
+                <a href="https://maximilianopizarro.github.io/golden-path-rhel-bootc/" class="article-link" target="_blank" rel="noopener noreferrer">
+                    Read Article →
+                </a>
+            </article>
+
+            <article class="article-card">
+                <div class="article-icon">
+                    <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
                         <polyline points="14 2 14 8 20 8"></polyline>
                         <line x1="16" y1="13" x2="8" y2="13"></line>

@@ -88,6 +88,9 @@ Passionate about cloud-native technologies, containerization, and enterprise sol
 - **[Workshop OpenShift Pipelines](https://maximilianopizarro.github.io/workshop-pipelines/)**  
   Helm Chart example on Red Hat OpenShift. Learn CI/CD practices with OpenShift Pipelines and GitOps workflows.
 
+- **[RHEL VM bootc — Golden Path](https://maximilianopizarro.github.io/golden-path-rhel-bootc/)**  
+  Backstage Software Template for Red Hat Developer Hub: provision RHEL VMs on OpenShift Virtualization with GitOps, bootc image-mode RHEL, and optional Connectivity Link.
+
 ### 📦 Helm Charts & Artifact Hub
 
 [![n8n OpenShift](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/n8n-openshift)](https://artifacthub.io/packages/helm/n8n-openshift/n8n)
